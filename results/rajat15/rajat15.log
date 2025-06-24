@@ -1,0 +1,10 @@
+trying to load csr file "./data/rajat15/rajat15.mtxd_.hicsr"
+successfully loaded: "./data/rajat15/rajat15.mtxd_.hicsr"
+Matrix: 37261x37261: 443573 nonzeros
+ var-SpGEMM -> NNZ: 25536219
+ var-SpGEMM SpGEMM: 12.6273 ms
+Collecting data...
+Generating '/tmp/nsys-report-7f4f.qdstrm'
+[1/1] [0%                          ] rajat15.nsys-rep[1/1] [0%                          ] rajat15.nsys-rep[1/1] [=============59%            ] rajat15.nsys-rep[1/1] [================68%         ] rajat15.nsys-rep[1/1] [========================100%] rajat15.nsys-rep[1/1] [========================100%] rajat15.nsys-rep
+Generated:
+	/workspace/./results/rajat15/rajat15.nsys-rep

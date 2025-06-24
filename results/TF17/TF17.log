@@ -1,0 +1,10 @@
+trying to load csr file "./data/TF17/TF17.mtxd_.hicsr"
+successfully loaded: "./data/TF17/TF17.mtxd_.hicsr"
+Matrix: 38132x48630: 586218 nonzeros
+ var-SpGEMM -> NNZ: 5782130
+ var-SpGEMM SpGEMM: 1.91204 ms
+Collecting data...
+Generating '/tmp/nsys-report-a7a7.qdstrm'
+[1/1] [0%                          ] TF17.nsys-rep[1/1] [0%                          ] TF17.nsys-rep[1/1] [============55%             ] TF17.nsys-rep[1/1] [============56%             ] TF17.nsys-rep[1/1] [========================100%] TF17.nsys-rep[1/1] [========================100%] TF17.nsys-rep
+Generated:
+	/workspace/./results/TF17/TF17.nsys-rep

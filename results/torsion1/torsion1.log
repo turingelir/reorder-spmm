@@ -1,0 +1,10 @@
+trying to load csr file "./data/torsion1/torsion1.mtxd_.hicsr"
+successfully loaded: "./data/torsion1/torsion1.mtxd_.hicsr"
+Matrix: 40000x40000: 197608 nonzeros
+ var-SpGEMM -> NNZ: 512820
+ var-SpGEMM SpGEMM: 0.287533 ms
+Collecting data...
+Generating '/tmp/nsys-report-96e5.qdstrm'
+[1/1] [0%                          ] torsion1.nsys-rep[1/1] [0%                          ] torsion1.nsys-rep[1/1] [==============61%           ] torsion1.nsys-rep[1/1] [========================100%] torsion1.nsys-rep[1/1] [========================100%] torsion1.nsys-rep
+Generated:
+	/workspace/./results/torsion1/torsion1.nsys-rep

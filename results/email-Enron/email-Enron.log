@@ -1,0 +1,10 @@
+trying to load csr file "./data/email-Enron/email-Enron.mtxd_.hicsr"
+successfully loaded: "./data/email-Enron/email-Enron.mtxd_.hicsr"
+Matrix: 36692x36692: 367662 nonzeros
+ var-SpGEMM -> NNZ: 30492154
+ var-SpGEMM SpGEMM: 8.90101 ms
+Collecting data...
+Generating '/tmp/nsys-report-3004.qdstrm'
+[1/1] [0%                          ] email-Enron.nsys-rep[1/1] [0%                          ] email-Enron.nsys-rep[1/1] [=============58%            ] email-Enron.nsys-rep[1/1] [========================100%] email-Enron.nsys-rep[1/1] [========================100%] email-Enron.nsys-rep
+Generated:
+	/workspace/./results/email-Enron/email-Enron.nsys-rep

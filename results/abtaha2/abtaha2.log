@@ -1,0 +1,10 @@
+trying to load csr file "./data/abtaha2/abtaha2.mtxd_.hicsr"
+successfully loaded: "./data/abtaha2/abtaha2.mtxd_.hicsr"
+Matrix: 37932x331: 137228 nonzeros
+ var-SpGEMM -> NNZ: 56163306
+ var-SpGEMM SpGEMM: 17.7293 ms
+Collecting data...
+Generating '/tmp/nsys-report-385d.qdstrm'
+[1/1] [0%                          ] abtaha2.nsys-rep[1/1] [0%                          ] abtaha2.nsys-rep[1/1] [============55%             ] abtaha2.nsys-rep[1/1] [============56%             ] abtaha2.nsys-rep[1/1] [========================100%] abtaha2.nsys-rep[1/1] [========================100%] abtaha2.nsys-rep
+Generated:
+	/workspace/./results/abtaha2/abtaha2.nsys-rep

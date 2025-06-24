@@ -1,0 +1,290 @@
+trying to load csr file "data/astro-ph/astro-ph.mtxd_.hicsr"
+successfully loaded: "data/astro-ph/astro-ph.mtxd_.hicsr"
+Matrix: 16706x16706: 242502 nonzeros
+spECK     initial mallocs = 2.438240 ms
+spECK  count computations = 4.874368 ms
+spECK       load-balancer = 4.936640 ms
+spECK      GlobalMaps Cnt = 0.592576 ms
+spECK     counting kernel = 1.933312 ms
+spECK        malloc mat C = 0.226016 ms
+spECK   num load-balancer = 0.319744 ms
+spECK     init GlobalMaps = 0.464480 ms
+spECK      numeric kernel = 1.728512 ms
+spECK      Sorting kernel = 1.150784 ms
+spECK             cleanup = 0.343744 ms
+--------------------------------------------------------------
+spECK            complete = 29.423712 ms
+
+spECK     initial mallocs = 0.329728 ms
+spECK  count computations = 2.852064 ms
+spECK       load-balancer = 4.935520 ms
+spECK      GlobalMaps Cnt = 2.459648 ms
+spECK     counting kernel = 5.246976 ms
+spECK        malloc mat C = 2.463520 ms
+spECK   num load-balancer = 4.956160 ms
+spECK     init GlobalMaps = 4.929536 ms
+spECK      numeric kernel = 3.044192 ms
+spECK      Sorting kernel = 5.384192 ms
+spECK             cleanup = 2.453824 ms
+--------------------------------------------------------------
+spECK            complete = 62.197567 ms
+
+spECK     initial mallocs = 2.459616 ms
+spECK  count computations = 4.962784 ms
+spECK       load-balancer = 4.949248 ms
+spECK      GlobalMaps Cnt = 2.469920 ms
+spECK     counting kernel = 5.248416 ms
+spECK        malloc mat C = 2.462464 ms
+spECK   num load-balancer = 4.953440 ms
+spECK     init GlobalMaps = 4.932320 ms
+spECK      numeric kernel = 6.159360 ms
+spECK      Sorting kernel = 5.378048 ms
+spECK             cleanup = 2.424896 ms
+--------------------------------------------------------------
+spECK            complete = 75.862526 ms
+
+spECK     initial mallocs = 2.484896 ms
+spECK  count computations = 4.943552 ms
+spECK       load-balancer = 4.952704 ms
+spECK      GlobalMaps Cnt = 2.470144 ms
+spECK     counting kernel = 5.284384 ms
+spECK        malloc mat C = 2.463776 ms
+spECK   num load-balancer = 4.937728 ms
+spECK     init GlobalMaps = 4.888384 ms
+spECK      numeric kernel = 6.071776 ms
+spECK      Sorting kernel = 5.374464 ms
+spECK             cleanup = 0.903168 ms
+--------------------------------------------------------------
+spECK            complete = 71.672829 ms
+
+spECK     initial mallocs = 0.107104 ms
+spECK  count computations = 0.408448 ms
+spECK       load-balancer = 0.384384 ms
+spECK      GlobalMaps Cnt = 0.329664 ms
+spECK     counting kernel = 1.641792 ms
+spECK        malloc mat C = 0.006400 ms
+spECK   num load-balancer = 0.356384 ms
+spECK     init GlobalMaps = 0.321312 ms
+spECK      numeric kernel = 1.930560 ms
+spECK      Sorting kernel = 1.272160 ms
+spECK             cleanup = 0.357248 ms
+--------------------------------------------------------------
+spECK            complete = 7.992480 ms
+
+spECK     initial mallocs = 0.335584 ms
+spECK  count computations = 4.950016 ms
+spECK       load-balancer = 4.933632 ms
+spECK      GlobalMaps Cnt = 2.463296 ms
+spECK     counting kernel = 5.261856 ms
+spECK        malloc mat C = 2.461472 ms
+spECK   num load-balancer = 4.954912 ms
+spECK     init GlobalMaps = 4.913952 ms
+spECK      numeric kernel = 6.823936 ms
+spECK      Sorting kernel = 5.380800 ms
+spECK             cleanup = 2.453504 ms
+--------------------------------------------------------------
+spECK            complete = 68.815170 ms
+
+spECK     initial mallocs = 2.463648 ms
+spECK  count computations = 4.964096 ms
+spECK       load-balancer = 4.952064 ms
+spECK      GlobalMaps Cnt = 2.461728 ms
+spECK     counting kernel = 5.282560 ms
+spECK        malloc mat C = 2.463872 ms
+spECK   num load-balancer = 4.954528 ms
+spECK     init GlobalMaps = 4.916608 ms
+spECK      numeric kernel = 6.169824 ms
+spECK      Sorting kernel = 5.316352 ms
+spECK             cleanup = 2.413600 ms
+--------------------------------------------------------------
+spECK            complete = 75.857597 ms
+
+spECK     initial mallocs = 2.456032 ms
+spECK  count computations = 4.964352 ms
+spECK       load-balancer = 4.953664 ms
+spECK      GlobalMaps Cnt = 2.470336 ms
+spECK     counting kernel = 5.265472 ms
+spECK        malloc mat C = 2.454240 ms
+spECK   num load-balancer = 4.912992 ms
+spECK     init GlobalMaps = 4.841472 ms
+spECK      numeric kernel = 6.161440 ms
+spECK      Sorting kernel = 1.496896 ms
+spECK             cleanup = 0.216224 ms
+--------------------------------------------------------------
+spECK            complete = 64.692764 ms
+
+spECK     initial mallocs = 0.133088 ms
+spECK  count computations = 0.242304 ms
+spECK       load-balancer = 0.436000 ms
+spECK      GlobalMaps Cnt = 0.392128 ms
+spECK     counting kernel = 1.513440 ms
+spECK        malloc mat C = 0.008192 ms
+spECK   num load-balancer = 0.241664 ms
+spECK     init GlobalMaps = 0.438272 ms
+spECK      numeric kernel = 2.175296 ms
+spECK      Sorting kernel = 1.597440 ms
+spECK             cleanup = 0.338880 ms
+--------------------------------------------------------------
+spECK            complete = 8.616992 ms
+
+spECK     initial mallocs = 2.456704 ms
+spECK  count computations = 4.941824 ms
+spECK       load-balancer = 4.923808 ms
+spECK      GlobalMaps Cnt = 2.471424 ms
+spECK     counting kernel = 5.271552 ms
+spECK        malloc mat C = 2.461696 ms
+spECK   num load-balancer = 3.619136 ms
+spECK     init GlobalMaps = 3.148800 ms
+spECK      numeric kernel = 6.151808 ms
+spECK      Sorting kernel = 5.387488 ms
+spECK             cleanup = 2.443264 ms
+--------------------------------------------------------------
+spECK            complete = 70.652061 ms
+
+spECK     initial mallocs = 2.465856 ms
+spECK  count computations = 4.962592 ms
+spECK       load-balancer = 4.925440 ms
+spECK      GlobalMaps Cnt = 2.469216 ms
+spECK     counting kernel = 5.273152 ms
+spECK        malloc mat C = 2.461696 ms
+spECK   num load-balancer = 4.949728 ms
+spECK     init GlobalMaps = 4.913248 ms
+spECK      numeric kernel = 6.112384 ms
+spECK      Sorting kernel = 5.305024 ms
+spECK             cleanup = 2.455552 ms
+--------------------------------------------------------------
+spECK            complete = 75.800484 ms
+
+spECK     initial mallocs = 2.465184 ms
+spECK  count computations = 4.963936 ms
+spECK       load-balancer = 4.949856 ms
+spECK      GlobalMaps Cnt = 2.461888 ms
+spECK     counting kernel = 5.259264 ms
+spECK        malloc mat C = 2.440960 ms
+spECK   num load-balancer = 4.876576 ms
+spECK     init GlobalMaps = 4.941760 ms
+spECK      numeric kernel = 4.431776 ms
+spECK      Sorting kernel = 0.837824 ms
+spECK             cleanup = 0.215744 ms
+--------------------------------------------------------------
+spECK            complete = 59.959297 ms
+
+spECK     initial mallocs = 0.129024 ms
+spECK  count computations = 0.258944 ms
+spECK       load-balancer = 0.391264 ms
+spECK      GlobalMaps Cnt = 0.370816 ms
+spECK     counting kernel = 1.542336 ms
+spECK        malloc mat C = 0.011744 ms
+spECK   num load-balancer = 0.293088 ms
+spECK     init GlobalMaps = 0.422336 ms
+spECK      numeric kernel = 2.243872 ms
+spECK      Sorting kernel = 1.642976 ms
+spECK             cleanup = 0.362496 ms
+--------------------------------------------------------------
+spECK            complete = 10.878976 ms
+
+spECK     initial mallocs = 2.455552 ms
+spECK  count computations = 4.942368 ms
+spECK       load-balancer = 4.930048 ms
+spECK      GlobalMaps Cnt = 2.469440 ms
+spECK     counting kernel = 5.271712 ms
+spECK        malloc mat C = 2.461696 ms
+spECK   num load-balancer = 1.656832 ms
+spECK     init GlobalMaps = 2.823296 ms
+spECK      numeric kernel = 6.163520 ms
+spECK      Sorting kernel = 5.378048 ms
+spECK             cleanup = 2.442144 ms
+--------------------------------------------------------------
+spECK            complete = 68.358879 ms
+
+spECK     initial mallocs = 2.467040 ms
+spECK  count computations = 4.961600 ms
+spECK       load-balancer = 4.934400 ms
+spECK      GlobalMaps Cnt = 2.469792 ms
+spECK     counting kernel = 5.278528 ms
+spECK        malloc mat C = 2.461696 ms
+spECK   num load-balancer = 4.944480 ms
+spECK     init GlobalMaps = 4.914656 ms
+spECK      numeric kernel = 6.107520 ms
+spECK      Sorting kernel = 5.305856 ms
+spECK             cleanup = 2.453600 ms
+--------------------------------------------------------------
+spECK            complete = 75.796768 ms
+
+spECK     initial mallocs = 2.467616 ms
+spECK  count computations = 4.962304 ms
+spECK       load-balancer = 4.952288 ms
+spECK      GlobalMaps Cnt = 2.463616 ms
+spECK     counting kernel = 5.265408 ms
+spECK        malloc mat C = 2.443264 ms
+spECK   num load-balancer = 4.875936 ms
+spECK     init GlobalMaps = 4.945344 ms
+spECK      numeric kernel = 4.542176 ms
+spECK      Sorting kernel = 0.619968 ms
+spECK             cleanup = 0.215040 ms
+--------------------------------------------------------------
+spECK            complete = 59.858944 ms
+
+spECK     initial mallocs = 0.131904 ms
+spECK  count computations = 0.212224 ms
+spECK       load-balancer = 0.350592 ms
+spECK      GlobalMaps Cnt = 0.317728 ms
+spECK     counting kernel = 1.523840 ms
+spECK        malloc mat C = 0.012288 ms
+spECK   num load-balancer = 0.295264 ms
+spECK     init GlobalMaps = 0.358208 ms
+spECK      numeric kernel = 2.498464 ms
+spECK      Sorting kernel = 1.275904 ms
+spECK             cleanup = 0.338720 ms
+--------------------------------------------------------------
+spECK            complete = 8.427296 ms
+
+spECK     initial mallocs = 2.452352 ms
+spECK  count computations = 4.941600 ms
+spECK       load-balancer = 4.926976 ms
+spECK      GlobalMaps Cnt = 2.469824 ms
+spECK     counting kernel = 5.284352 ms
+spECK        malloc mat C = 2.463456 ms
+spECK   num load-balancer = 3.559072 ms
+spECK     init GlobalMaps = 3.151136 ms
+spECK      numeric kernel = 6.160384 ms
+spECK      Sorting kernel = 5.380000 ms
+spECK             cleanup = 2.444256 ms
+--------------------------------------------------------------
+spECK            complete = 70.610947 ms
+
+spECK     initial mallocs = 2.463808 ms
+spECK  count computations = 4.960256 ms
+spECK       load-balancer = 4.925440 ms
+spECK      GlobalMaps Cnt = 2.471328 ms
+spECK     counting kernel = 5.282976 ms
+spECK        malloc mat C = 2.463744 ms
+spECK   num load-balancer = 4.947136 ms
+spECK     init GlobalMaps = 4.912864 ms
+spECK      numeric kernel = 6.109504 ms
+spECK      Sorting kernel = 5.313856 ms
+spECK             cleanup = 2.453440 ms
+--------------------------------------------------------------
+spECK            complete = 75.801407 ms
+
+spECK     initial mallocs = 2.465792 ms
+spECK  count computations = 4.962304 ms
+spECK       load-balancer = 4.953504 ms
+spECK      GlobalMaps Cnt = 2.461600 ms
+spECK     counting kernel = 5.259296 ms
+spECK        malloc mat C = 2.445312 ms
+spECK   num load-balancer = 4.875872 ms
+spECK     init GlobalMaps = 4.941824 ms
+spECK      numeric kernel = 4.521728 ms
+spECK      Sorting kernel = 0.851968 ms
+spECK             cleanup = 0.219040 ms
+--------------------------------------------------------------
+spECK            complete = 60.063328 ms
+
+ var-SpGEMM -> NNZ: 3576032
+ var-SpGEMM SpGEMM: 56.5556 ms
+==PROF== Connected to process 1663 (/workspace/build/runspECK)
+==ERROR== Error: ERR_NVGPUCTRPERM - The user does not have permission to access NVIDIA GPU Performance Counters on the target device 0. For instructions on enabling permissions and to get more information see https://developer.nvidia.com/ERR_NVGPUCTRPERM
+==PROF== Disconnected from process 1663
+==ERROR== An error occurred while trying to profile.
+==WARNING== No kernels were profiled.

@@ -1,0 +1,10 @@
+trying to load csr file "./data/bauru5727/reordered_louvain_bauru5727.mtxd_.hicsr"
+successfully loaded: "./data/bauru5727/reordered_louvain_bauru5727.mtxd_.hicsr"
+Matrix: 40366x40366: 145019 nonzeros
+ var-SpGEMM -> NNZ: 370653
+ var-SpGEMM SpGEMM: 0.439682 ms
+Collecting data...
+Generating '/tmp/nsys-report-b0d9.qdstrm'
+[1/1] [0%                          ] reordered_louvain_bauru5727.nsys-rep[1/1] [0%                          ] reordered_louvain_bauru5727.nsys-rep[1/1] [==============61%           ] reordered_louvain_bauru5727.nsys-rep[1/1] [========================100%] reordered_louvain_bauru5727.nsys-rep[1/1] [========================100%] reordered_louvain_bauru5727.nsys-rep
+Generated:
+	/workspace/./results/bauru5727/reordered_louvain_bauru5727.nsys-rep

@@ -1,0 +1,10 @@
+trying to load csr file "./data/scfxm1-2r/scfxm1-2r.mtxd_.hicsr"
+successfully loaded: "./data/scfxm1-2r/scfxm1-2r.mtxd_.hicsr"
+Matrix: 37980x65943: 221388 nonzeros
+ var-SpGEMM -> NNZ: 1631782
+ var-SpGEMM SpGEMM: 1.20432 ms
+Collecting data...
+Generating '/tmp/nsys-report-131e.qdstrm'
+[1/1] [0%                          ] scfxm1-2r.nsys-rep[1/1] [0%                          ] scfxm1-2r.nsys-rep[1/1] [===============67%          ] scfxm1-2r.nsys-rep[1/1] [========================100%] scfxm1-2r.nsys-rep[1/1] [========================100%] scfxm1-2r.nsys-rep
+Generated:
+	/workspace/./results/scfxm1-2r/scfxm1-2r.nsys-rep

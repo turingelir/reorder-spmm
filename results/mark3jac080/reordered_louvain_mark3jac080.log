@@ -1,0 +1,10 @@
+trying to load csr file "./data/mark3jac080/reordered_louvain_mark3jac080.mtxd_.hicsr"
+successfully loaded: "./data/mark3jac080/reordered_louvain_mark3jac080.mtxd_.hicsr"
+Matrix: 36609x36609: 227955 nonzeros
+ var-SpGEMM -> NNZ: 1035125
+ var-SpGEMM SpGEMM: 0.642331 ms
+Collecting data...
+Generating '/tmp/nsys-report-f210.qdstrm'
+[1/1] [0%                          ] reordered_louvain_mark3jac080.nsys-rep[1/1] [0%                          ] reordered_louvain_mark3jac080.nsys-rep[1/1] [=============60%            ] reordered_louvain_mark3jac080.nsys-rep[1/1] [========================100%] reordered_louvain_mark3jac080.nsys-rep[1/1] [========================100%] reordered_louvain_mark3jac080.nsys-rep
+Generated:
+	/workspace/./results/mark3jac080/reordered_louvain_mark3jac080.nsys-rep

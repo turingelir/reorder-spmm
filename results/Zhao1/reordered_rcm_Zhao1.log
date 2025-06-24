@@ -1,0 +1,10 @@
+trying to load csr file "./data/Zhao1/reordered_rcm_Zhao1.mtxd_.hicsr"
+successfully loaded: "./data/Zhao1/reordered_rcm_Zhao1.mtxd_.hicsr"
+Matrix: 33861x33861: 166453 nonzeros
+ var-SpGEMM -> NNZ: 552997
+ var-SpGEMM SpGEMM: 0.2872 ms
+Collecting data...
+Generating '/tmp/nsys-report-34fe.qdstrm'
+[1/1] [0%                          ] reordered_rcm_Zhao1.nsys-rep[1/1] [0%                          ] reordered_rcm_Zhao1.nsys-rep[1/1] [===========53%              ] reordered_rcm_Zhao1.nsys-rep[1/1] [============54%             ] reordered_rcm_Zhao1.nsys-rep[1/1] [========================100%] reordered_rcm_Zhao1.nsys-rep[1/1] [========================100%] reordered_rcm_Zhao1.nsys-rep
+Generated:
+	/workspace/./results/Zhao1/reordered_rcm_Zhao1.nsys-rep

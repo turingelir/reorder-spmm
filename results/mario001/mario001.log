@@ -1,0 +1,10 @@
+trying to load csr file "./data/mario001/mario001.mtxd_.hicsr"
+successfully loaded: "./data/mario001/mario001.mtxd_.hicsr"
+Matrix: 38434x38434: 206156 nonzeros
+ var-SpGEMM -> NNZ: 631606
+ var-SpGEMM SpGEMM: 0.43214 ms
+Collecting data...
+Generating '/tmp/nsys-report-c1b2.qdstrm'
+[1/1] [0%                          ] mario001.nsys-rep[1/1] [0%                          ] mario001.nsys-rep[1/1] [=============60%            ] mario001.nsys-rep[1/1] [========================100%] mario001.nsys-rep[1/1] [========================100%] mario001.nsys-rep
+Generated:
+	/workspace/./results/mario001/mario001.nsys-rep

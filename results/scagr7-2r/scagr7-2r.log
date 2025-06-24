@@ -1,0 +1,10 @@
+trying to load csr file "./data/scagr7-2r/scagr7-2r.mtxd_.hicsr"
+successfully loaded: "./data/scagr7-2r/scagr7-2r.mtxd_.hicsr"
+Matrix: 32847x46679: 120141 nonzeros
+ var-SpGEMM -> NNZ: 44272305
+ var-SpGEMM SpGEMM: 10.9718 ms
+Collecting data...
+Generating '/tmp/nsys-report-74ca.qdstrm'
+[1/1] [0%                          ] scagr7-2r.nsys-rep[1/1] [0%                          ] scagr7-2r.nsys-rep[1/1] [==============64%           ] scagr7-2r.nsys-rep[1/1] [================68%         ] scagr7-2r.nsys-rep[1/1] [========================100%] scagr7-2r.nsys-rep[1/1] [========================100%] scagr7-2r.nsys-rep
+Generated:
+	/workspace/./results/scagr7-2r/scagr7-2r.nsys-rep

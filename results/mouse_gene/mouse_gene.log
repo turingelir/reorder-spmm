@@ -1,0 +1,10 @@
+trying to load csr file "./data/mouse_gene/mouse_gene.mtxd_.hicsr"
+successfully loaded: "./data/mouse_gene/mouse_gene.mtxd_.hicsr"
+Matrix: 45101x45101: 28967291 nonzeros
+ var-SpGEMM -> NNZ: 482594045
+ var-SpGEMM SpGEMM: 4959.9 ms
+Collecting data...
+Generating '/tmp/nsys-report-2881.qdstrm'
+[1/1] [0%                          ] mouse_gene.nsys-rep[1/1] [0%                          ] mouse_gene.nsys-rep[1/1] [====28%                     ] mouse_gene.nsys-rep[1/1] [==============64%           ] mouse_gene.nsys-rep[1/1] [========================100%] mouse_gene.nsys-rep[1/1] [========================100%] mouse_gene.nsys-rep
+Generated:
+	/workspace/./results/mouse_gene/mouse_gene.nsys-rep

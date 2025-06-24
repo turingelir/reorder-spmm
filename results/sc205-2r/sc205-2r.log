@@ -1,0 +1,10 @@
+trying to load csr file "./data/sc205-2r/sc205-2r.mtxd_.hicsr"
+successfully loaded: "./data/sc205-2r/sc205-2r.mtxd_.hicsr"
+Matrix: 35213x62423: 123239 nonzeros
+ var-SpGEMM -> NNZ: 12984043
+ var-SpGEMM SpGEMM: 6.39319 ms
+Collecting data...
+Generating '/tmp/nsys-report-9118.qdstrm'
+[1/1] [0%                          ] sc205-2r.nsys-rep[1/1] [0%                          ] sc205-2r.nsys-rep[1/1] [===============67%          ] sc205-2r.nsys-rep[1/1] [========================100%] sc205-2r.nsys-rep[1/1] [========================100%] sc205-2r.nsys-rep
+Generated:
+	/workspace/./results/sc205-2r/sc205-2r.nsys-rep

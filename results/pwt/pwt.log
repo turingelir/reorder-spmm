@@ -1,0 +1,10 @@
+trying to load csr file "./data/pwt/pwt.mtxd_.hicsr"
+successfully loaded: "./data/pwt/pwt.mtxd_.hicsr"
+Matrix: 36519x36519: 326107 nonzeros
+ var-SpGEMM -> NNZ: 913963
+ var-SpGEMM SpGEMM: 0.54297 ms
+Collecting data...
+Generating '/tmp/nsys-report-d81f.qdstrm'
+[1/1] [0%                          ] pwt.nsys-rep[1/1] [0%                          ] pwt.nsys-rep[1/1] [==============61%           ] pwt.nsys-rep[1/1] [========================100%] pwt.nsys-rep[1/1] [========================100%] pwt.nsys-rep
+Generated:
+	/workspace/./results/pwt/pwt.nsys-rep

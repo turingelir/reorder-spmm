@@ -1,0 +1,10 @@
+trying to load csr file "./data/viscoplastic2/viscoplastic2.mtxd_.hicsr"
+successfully loaded: "./data/viscoplastic2/viscoplastic2.mtxd_.hicsr"
+Matrix: 32769x32769: 381326 nonzeros
+ var-SpGEMM -> NNZ: 6266572
+ var-SpGEMM SpGEMM: 2.40799 ms
+Collecting data...
+Generating '/tmp/nsys-report-741d.qdstrm'
+[1/1] [0%                          ] viscoplastic2.nsys-rep[1/1] [0%                          ] viscoplastic2.nsys-rep[1/1] [==============61%           ] viscoplastic2.nsys-rep[1/1] [========================100%] viscoplastic2.nsys-rep[1/1] [========================100%] viscoplastic2.nsys-rep
+Generated:
+	/workspace/./results/viscoplastic2/viscoplastic2.nsys-rep

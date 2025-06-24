@@ -1,0 +1,10 @@
+trying to load csr file "./data/bcsstm39/bcsstm39.mtxd_.hicsr"
+successfully loaded: "./data/bcsstm39/bcsstm39.mtxd_.hicsr"
+Matrix: 46772x46772: 46772 nonzeros
+ var-SpGEMM -> NNZ: 46772
+ var-SpGEMM SpGEMM: 0.161827 ms
+Collecting data...
+Generating '/tmp/nsys-report-20e8.qdstrm'
+[1/1] [0%                          ] bcsstm39.nsys-rep[1/1] [0%                          ] bcsstm39.nsys-rep[1/1] [===========53%              ] bcsstm39.nsys-rep[1/1] [============54%             ] bcsstm39.nsys-rep[1/1] [========================100%] bcsstm39.nsys-rep[1/1] [========================100%] bcsstm39.nsys-rep
+Generated:
+	/workspace/./results/bcsstm39/bcsstm39.nsys-rep

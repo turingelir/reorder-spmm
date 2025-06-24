@@ -1,0 +1,10 @@
+trying to load csr file "./data/g7jac120/g7jac120.mtxd_.hicsr"
+successfully loaded: "./data/g7jac120/g7jac120.mtxd_.hicsr"
+Matrix: 35550x35550: 475296 nonzeros
+ var-SpGEMM -> NNZ: 3014894
+ var-SpGEMM SpGEMM: 1.91248 ms
+Collecting data...
+Generating '/tmp/nsys-report-6b5a.qdstrm'
+[1/1] [0%                          ] g7jac120.nsys-rep[1/1] [0%                          ] g7jac120.nsys-rep[1/1] [============56%             ] g7jac120.nsys-rep[1/1] [============57%             ] g7jac120.nsys-rep[1/1] [========================100%] g7jac120.nsys-rep[1/1] [========================100%] g7jac120.nsys-rep
+Generated:
+	/workspace/./results/g7jac120/g7jac120.nsys-rep

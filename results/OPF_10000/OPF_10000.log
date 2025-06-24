@@ -1,0 +1,10 @@
+trying to load csr file "./data/OPF_10000/OPF_10000.mtxd_.hicsr"
+successfully loaded: "./data/OPF_10000/OPF_10000.mtxd_.hicsr"
+Matrix: 43887x43887: 467711 nonzeros
+ var-SpGEMM -> NNZ: 1521757
+ var-SpGEMM SpGEMM: 1.02889 ms
+Collecting data...
+Generating '/tmp/nsys-report-cd53.qdstrm'
+[1/1] [0%                          ] OPF_10000.nsys-rep[1/1] [0%                          ] OPF_10000.nsys-rep[1/1] [============55%             ] OPF_10000.nsys-rep[1/1] [========================100%] OPF_10000.nsys-rep[1/1] [========================100%] OPF_10000.nsys-rep
+Generated:
+	/workspace/./results/OPF_10000/OPF_10000.nsys-rep

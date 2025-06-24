@@ -1,0 +1,10 @@
+trying to load csr file "./data/net125/net125.mtxd_.hicsr"
+successfully loaded: "./data/net125/net125.mtxd_.hicsr"
+Matrix: 36720x36720: 2577200 nonzeros
+ var-SpGEMM -> NNZ: 175086502
+ var-SpGEMM SpGEMM: 57.2122 ms
+Collecting data...
+Generating '/tmp/nsys-report-530a.qdstrm'
+[1/1] [0%                          ] net125.nsys-rep[1/1] [0%                          ] net125.nsys-rep[1/1] [============57%             ] net125.nsys-rep[1/1] [================68%         ] net125.nsys-rep[1/1] [========================100%] net125.nsys-rep[1/1] [========================100%] net125.nsys-rep
+Generated:
+	/workspace/./results/net125/net125.nsys-rep

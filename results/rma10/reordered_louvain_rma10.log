@@ -1,0 +1,10 @@
+trying to load csr file "./data/rma10/reordered_louvain_rma10.mtxd_.hicsr"
+successfully loaded: "./data/rma10/reordered_louvain_rma10.mtxd_.hicsr"
+Matrix: 46835x46835: 2374001 nonzeros
+ var-SpGEMM -> NNZ: 7900917
+ var-SpGEMM SpGEMM: 9.51629 ms
+Collecting data...
+Generating '/tmp/nsys-report-9268.qdstrm'
+[1/1] [0%                          ] reordered_louvain_rma10.nsys-rep[1/1] [0%                          ] reordered_louvain_rma10.nsys-rep[1/1] [===============65%          ] reordered_louvain_rma10.nsys-rep[1/1] [========================100%] reordered_louvain_rma10.nsys-rep[1/1] [========================100%] reordered_louvain_rma10.nsys-rep
+Generated:
+	/workspace/./results/rma10/reordered_louvain_rma10.nsys-rep

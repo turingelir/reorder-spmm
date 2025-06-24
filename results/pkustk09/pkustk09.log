@@ -1,0 +1,10 @@
+trying to load csr file "./data/pkustk09/pkustk09.mtxd_.hicsr"
+successfully loaded: "./data/pkustk09/pkustk09.mtxd_.hicsr"
+Matrix: 33960x33960: 1583640 nonzeros
+ var-SpGEMM -> NNZ: 4479768
+ var-SpGEMM SpGEMM: 6.09505 ms
+Collecting data...
+Generating '/tmp/nsys-report-4ead.qdstrm'
+[1/1] [0%                          ] pkustk09.nsys-rep[1/1] [0%                          ] pkustk09.nsys-rep[1/1] [===============65%          ] pkustk09.nsys-rep[1/1] [========================100%] pkustk09.nsys-rep[1/1] [========================100%] pkustk09.nsys-rep
+Generated:
+	/workspace/./results/pkustk09/pkustk09.nsys-rep

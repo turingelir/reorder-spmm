@@ -1,0 +1,10 @@
+trying to load csr file "./data/3dtube/3dtube.mtxd_.hicsr"
+successfully loaded: "./data/3dtube/3dtube.mtxd_.hicsr"
+Matrix: 45330x45330: 3213618 nonzeros
+ var-SpGEMM -> NNZ: 23716476
+ var-SpGEMM SpGEMM: 16.8539 ms
+Collecting data...
+Generating '/tmp/nsys-report-091f.qdstrm'
+[1/1] [0%                          ] 3dtube.nsys-rep[1/1] [0%                          ] 3dtube.nsys-rep[1/1] [=============58%            ] 3dtube.nsys-rep[1/1] [========================100%] 3dtube.nsys-rep[1/1] [========================100%] 3dtube.nsys-rep
+Generated:
+	/workspace/./results/3dtube/3dtube.nsys-rep

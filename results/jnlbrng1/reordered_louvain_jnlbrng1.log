@@ -1,0 +1,10 @@
+trying to load csr file "./data/jnlbrng1/reordered_louvain_jnlbrng1.mtxd_.hicsr"
+successfully loaded: "./data/jnlbrng1/reordered_louvain_jnlbrng1.mtxd_.hicsr"
+Matrix: 40000x40000: 119600 nonzeros
+ var-SpGEMM -> NNZ: 238401
+ var-SpGEMM SpGEMM: 0.186595 ms
+Collecting data...
+Generating '/tmp/nsys-report-b607.qdstrm'
+[1/1] [0%                          ] reordered_louvain_jnlbrng1.nsys-rep[1/1] [0%                          ] reordered_louvain_jnlbrng1.nsys-rep[1/1] [==============61%           ] reordered_louvain_jnlbrng1.nsys-rep[1/1] [========================100%] reordered_louvain_jnlbrng1.nsys-rep[1/1] [========================100%] reordered_louvain_jnlbrng1.nsys-rep
+Generated:
+	/workspace/./results/jnlbrng1/reordered_louvain_jnlbrng1.nsys-rep

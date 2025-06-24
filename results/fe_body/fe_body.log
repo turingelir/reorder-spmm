@@ -1,0 +1,10 @@
+trying to load csr file "./data/fe_body/fe_body.mtxd_.hicsr"
+successfully loaded: "./data/fe_body/fe_body.mtxd_.hicsr"
+Matrix: 45087x45087: 327468 nonzeros
+ var-SpGEMM -> NNZ: 1187713
+ var-SpGEMM SpGEMM: 0.599094 ms
+Collecting data...
+Generating '/tmp/nsys-report-b522.qdstrm'
+[1/1] [0%                          ] fe_body.nsys-rep[1/1] [0%                          ] fe_body.nsys-rep[1/1] [===========53%              ] fe_body.nsys-rep[1/1] [============54%             ] fe_body.nsys-rep[1/1] [========================100%] fe_body.nsys-rep[1/1] [========================100%] fe_body.nsys-rep
+Generated:
+	/workspace/./results/fe_body/fe_body.nsys-rep

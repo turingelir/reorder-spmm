@@ -1,0 +1,10 @@
+trying to load csr file "./data/obstclae/obstclae.mtxd_.hicsr"
+successfully loaded: "./data/obstclae/obstclae.mtxd_.hicsr"
+Matrix: 40000x40000: 197608 nonzeros
+ var-SpGEMM -> NNZ: 512820
+ var-SpGEMM SpGEMM: 0.283428 ms
+Collecting data...
+Generating '/tmp/nsys-report-d177.qdstrm'
+[1/1] [0%                          ] obstclae.nsys-rep[1/1] [0%                          ] obstclae.nsys-rep[1/1] [==============61%           ] obstclae.nsys-rep[1/1] [========================100%] obstclae.nsys-rep[1/1] [========================100%] obstclae.nsys-rep
+Generated:
+	/workspace/./results/obstclae/obstclae.nsys-rep

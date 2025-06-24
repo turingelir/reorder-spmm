@@ -1,0 +1,10 @@
+trying to load csr file "./data/aug3dcqp/reordered_rcm_aug3dcqp.mtxd_.hicsr"
+successfully loaded: "./data/aug3dcqp/reordered_rcm_aug3dcqp.mtxd_.hicsr"
+Matrix: 35543x35543: 77829 nonzeros
+ var-SpGEMM -> NNZ: 177421
+ var-SpGEMM SpGEMM: 0.158755 ms
+Collecting data...
+Generating '/tmp/nsys-report-3924.qdstrm'
+[1/1] [0%                          ] reordered_rcm_aug3dcqp.nsys-rep[1/1] [0%                          ] reordered_rcm_aug3dcqp.nsys-rep[1/1] [===========53%              ] reordered_rcm_aug3dcqp.nsys-rep[1/1] [============54%             ] reordered_rcm_aug3dcqp.nsys-rep[1/1] [========================100%] reordered_rcm_aug3dcqp.nsys-rep[1/1] [========================100%] reordered_rcm_aug3dcqp.nsys-rep
+Generated:
+	/workspace/./results/aug3dcqp/reordered_rcm_aug3dcqp.nsys-rep

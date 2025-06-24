@@ -1,0 +1,10 @@
+trying to load csr file "./data/kim1/kim1.mtxd_.hicsr"
+successfully loaded: "./data/kim1/kim1.mtxd_.hicsr"
+Matrix: 38415x38415: 933195 nonzeros
+ var-SpGEMM -> NNZ: 3003795
+ var-SpGEMM SpGEMM: 2.13454 ms
+Collecting data...
+Generating '/tmp/nsys-report-70d4.qdstrm'
+[1/1] [0%                          ] kim1.nsys-rep[1/1] [0%                          ] kim1.nsys-rep[1/1] [============55%             ] kim1.nsys-rep[1/1] [========================100%] kim1.nsys-rep[1/1] [========================100%] kim1.nsys-rep
+Generated:
+	/workspace/./results/kim1/kim1.nsys-rep

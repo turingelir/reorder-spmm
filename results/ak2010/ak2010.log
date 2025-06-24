@@ -1,0 +1,10 @@
+trying to load csr file "./data/ak2010/ak2010.mtxd_.hicsr"
+successfully loaded: "./data/ak2010/ak2010.mtxd_.hicsr"
+Matrix: 45292x45292: 217098 nonzeros
+ var-SpGEMM -> NNZ: 1985072
+ var-SpGEMM SpGEMM: 1.31617 ms
+Collecting data...
+Generating '/tmp/nsys-report-6986.qdstrm'
+[1/1] [0%                          ] ak2010.nsys-rep[1/1] [0%                          ] ak2010.nsys-rep[1/1] [============55%             ] ak2010.nsys-rep[1/1] [========================100%] ak2010.nsys-rep[1/1] [========================100%] ak2010.nsys-rep
+Generated:
+	/workspace/./results/ak2010/ak2010.nsys-rep

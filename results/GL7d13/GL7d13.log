@@ -1,0 +1,10 @@
+trying to load csr file "./data/GL7d13/GL7d13.mtxd_.hicsr"
+successfully loaded: "./data/GL7d13/GL7d13.mtxd_.hicsr"
+Matrix: 47271x8899: 356232 nonzeros
+ var-SpGEMM -> NNZ: 16476581
+ var-SpGEMM SpGEMM: 7.04639 ms
+Collecting data...
+Generating '/tmp/nsys-report-a4ff.qdstrm'
+[1/1] [0%                          ] GL7d13.nsys-rep[1/1] [0%                          ] GL7d13.nsys-rep[1/1] [============56%             ] GL7d13.nsys-rep[1/1] [========================100%] GL7d13.nsys-rep[1/1] [========================100%] GL7d13.nsys-rep
+Generated:
+	/workspace/./results/GL7d13/GL7d13.nsys-rep

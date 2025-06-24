@@ -1,0 +1,10 @@
+trying to load csr file "./data/Franz11/Franz11.mtxd_.hicsr"
+successfully loaded: "./data/Franz11/Franz11.mtxd_.hicsr"
+Matrix: 47104x30144: 329728 nonzeros
+ var-SpGEMM -> NNZ: 3932160
+ var-SpGEMM SpGEMM: 1.03736 ms
+Collecting data...
+Generating '/tmp/nsys-report-b651.qdstrm'
+[1/1] [0%                          ] Franz11.nsys-rep[1/1] [0%                          ] Franz11.nsys-rep[1/1] [============54%             ] Franz11.nsys-rep[1/1] [========================100%] Franz11.nsys-rep[1/1] [========================100%] Franz11.nsys-rep
+Generated:
+	/workspace/./results/Franz11/Franz11.nsys-rep

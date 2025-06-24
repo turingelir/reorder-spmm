@@ -1,0 +1,10 @@
+trying to load csr file "./data/cond-mat-2005/cond-mat-2005.mtxd_.hicsr"
+successfully loaded: "./data/cond-mat-2005/cond-mat-2005.mtxd_.hicsr"
+Matrix: 40421x40421: 351386 nonzeros
+ var-SpGEMM -> NNZ: 5184585
+ var-SpGEMM SpGEMM: 2.76116 ms
+Collecting data...
+Generating '/tmp/nsys-report-a183.qdstrm'
+[1/1] [0%                          ] cond-mat-2005.nsys-rep[1/1] [0%                          ] cond-mat-2005.nsys-rep[1/1] [=============59%            ] cond-mat-2005.nsys-rep[1/1] [========================100%] cond-mat-2005.nsys-rep[1/1] [========================100%] cond-mat-2005.nsys-rep
+Generated:
+	/workspace/./results/cond-mat-2005/cond-mat-2005.nsys-rep

@@ -1,0 +1,10 @@
+trying to load csr file "./data/vsp_south31_slptsk/vsp_south31_slptsk.mtxd_.hicsr"
+successfully loaded: "./data/vsp_south31_slptsk/vsp_south31_slptsk.mtxd_.hicsr"
+Matrix: 39668x39668: 379828 nonzeros
+ var-SpGEMM -> NNZ: 389540274
+ var-SpGEMM SpGEMM: 74.2723 ms
+Collecting data...
+Generating '/tmp/nsys-report-b81d.qdstrm'
+[1/1] [0%                          ] vsp_south31_slptsk.nsys-rep[1/1] [0%                          ] vsp_south31_slptsk.nsys-rep[1/1] [=============59%            ] vsp_south31_slptsk.nsys-rep[1/1] [================68%         ] vsp_south31_slptsk.nsys-rep[1/1] [========================100%] vsp_south31_slptsk.nsys-rep[1/1] [========================100%] vsp_south31_slptsk.nsys-rep
+Generated:
+	/workspace/./results/vsp_south31_slptsk/vsp_south31_slptsk.nsys-rep

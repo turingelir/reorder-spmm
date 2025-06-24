@@ -1,0 +1,10 @@
+trying to load csr file "./data/TSOPF_RS_b2383/TSOPF_RS_b2383.mtxd_.hicsr"
+successfully loaded: "./data/TSOPF_RS_b2383/TSOPF_RS_b2383.mtxd_.hicsr"
+Matrix: 38120x38120: 16171169 nonzeros
+ var-SpGEMM -> NNZ: 74318317
+ var-SpGEMM SpGEMM: 59.1411 ms
+Collecting data...
+Generating '/tmp/nsys-report-5cee.qdstrm'
+[1/1] [0%                          ] TSOPF_RS_b2383.nsys-rep[1/1] [0%                          ] TSOPF_RS_b2383.nsys-rep[1/1] [=============58%            ] TSOPF_RS_b2383.nsys-rep[1/1] [========================100%] TSOPF_RS_b2383.nsys-rep[1/1] [========================100%] TSOPF_RS_b2383.nsys-rep
+Generated:
+	/workspace/./results/TSOPF_RS_b2383/TSOPF_RS_b2383.nsys-rep

@@ -1,0 +1,10 @@
+trying to load csr file "./data/windtunnel_evap3d/windtunnel_evap3d.mtxd_.hicsr"
+successfully loaded: "./data/windtunnel_evap3d/windtunnel_evap3d.mtxd_.hicsr"
+Matrix: 40816x40816: 2730600 nonzeros
+ var-SpGEMM -> NNZ: 17626772
+ var-SpGEMM SpGEMM: 16.6856 ms
+Collecting data...
+Generating '/tmp/nsys-report-ccbf.qdstrm'
+[1/1] [0%                          ] windtunnel_evap3d.nsys-rep[1/1] [0%                          ] windtunnel_evap3d.nsys-rep[1/1] [==============64%           ] windtunnel_evap3d.nsys-rep[1/1] [========================100%] windtunnel_evap3d.nsys-rep[1/1] [========================100%] windtunnel_evap3d.nsys-rep
+Generated:
+	/workspace/./results/windtunnel_evap3d/windtunnel_evap3d.nsys-rep

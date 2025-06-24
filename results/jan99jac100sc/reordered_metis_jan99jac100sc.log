@@ -1,0 +1,10 @@
+trying to load csr file "./data/jan99jac100sc/reordered_metis_jan99jac100sc.mtxd_.hicsr"
+successfully loaded: "./data/jan99jac100sc/reordered_metis_jan99jac100sc.mtxd_.hicsr"
+Matrix: 34454x34454: 215862 nonzeros
+ var-SpGEMM -> NNZ: 1144715
+ var-SpGEMM SpGEMM: 0.912263 ms
+Collecting data...
+Generating '/tmp/nsys-report-337e.qdstrm'
+[1/1] [0%                          ] reordered_metis_jan99jac100sc.nsys-rep[1/1] [0%                          ] reordered_metis_jan99jac100sc.nsys-rep[1/1] [==============64%           ] reordered_metis_jan99jac100sc.nsys-rep[1/1] [========================100%] reordered_metis_jan99jac100sc.nsys-rep[1/1] [========================100%] reordered_metis_jan99jac100sc.nsys-rep
+Generated:
+	/workspace/./results/jan99jac100sc/reordered_metis_jan99jac100sc.nsys-rep

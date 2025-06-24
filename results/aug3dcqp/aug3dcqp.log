@@ -1,0 +1,10 @@
+trying to load csr file "./data/aug3dcqp/aug3dcqp.mtxd_.hicsr"
+successfully loaded: "./data/aug3dcqp/aug3dcqp.mtxd_.hicsr"
+Matrix: 35543x35543: 128115 nonzeros
+ var-SpGEMM -> NNZ: 449387
+ var-SpGEMM SpGEMM: 0.242896 ms
+Collecting data...
+Generating '/tmp/nsys-report-99fe.qdstrm'
+[1/1] [0%                          ] aug3dcqp.nsys-rep[1/1] [0%                          ] aug3dcqp.nsys-rep[1/1] [===========53%              ] aug3dcqp.nsys-rep[1/1] [============54%             ] aug3dcqp.nsys-rep[1/1] [========================100%] aug3dcqp.nsys-rep[1/1] [========================100%] aug3dcqp.nsys-rep
+Generated:
+	/workspace/./results/aug3dcqp/aug3dcqp.nsys-rep

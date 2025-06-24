@@ -1,0 +1,10 @@
+trying to load csr file "./data/vsp_barth5_1Ksep_50in_5Kout/vsp_barth5_1Ksep_50in_5Kout.mtxd_.hicsr"
+successfully loaded: "./data/vsp_barth5_1Ksep_50in_5Kout/vsp_barth5_1Ksep_50in_5Kout.mtxd_.hicsr"
+Matrix: 32212x32212: 203610 nonzeros
+ var-SpGEMM -> NNZ: 800408
+ var-SpGEMM SpGEMM: 0.456818 ms
+Collecting data...
+Generating '/tmp/nsys-report-4d7a.qdstrm'
+[1/1] [0%                          ] vsp_barth5_1Ksep_50in_5Kout.nsys-rep[1/1] [0%                          ] vsp_barth5_1Ksep_50in_5Kout.nsys-rep[1/1] [==============61%           ] vsp_barth5_1Ksep_50in_5Kout.nsys-rep[1/1] [========================100%] vsp_barth5_1Ksep_50in_5Kout.nsys-rep[1/1] [========================100%] vsp_barth5_1Ksep_50in_5Kout.nsys-rep
+Generated:
+	/workspace/./results/vsp_barth5_1Ksep_50in_5Kout/vsp_barth5_1Ksep_50in_5Kout.nsys-rep

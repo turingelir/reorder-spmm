@@ -1,0 +1,10 @@
+trying to load csr file "./data/fxm3_16/fxm3_16.mtxd_.hicsr"
+successfully loaded: "./data/fxm3_16/fxm3_16.mtxd_.hicsr"
+Matrix: 41340x85575: 392252 nonzeros
+ var-SpGEMM -> NNZ: 765526
+ var-SpGEMM SpGEMM: 0.876458 ms
+Collecting data...
+Generating '/tmp/nsys-report-6aa5.qdstrm'
+[1/1] [0%                          ] fxm3_16.nsys-rep[1/1] [0%                          ] fxm3_16.nsys-rep[1/1] [============54%             ] fxm3_16.nsys-rep[1/1] [========================100%] fxm3_16.nsys-rep[1/1] [========================100%] fxm3_16.nsys-rep
+Generated:
+	/workspace/./results/fxm3_16/fxm3_16.nsys-rep

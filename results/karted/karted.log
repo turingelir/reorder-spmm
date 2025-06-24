@@ -1,0 +1,10 @@
+trying to load csr file "./data/karted/karted.mtxd_.hicsr"
+successfully loaded: "./data/karted/karted.mtxd_.hicsr"
+Matrix: 46502x133115: 1770349 nonzeros
+ var-SpGEMM -> NNZ: 9875914
+ var-SpGEMM SpGEMM: 99.6645 ms
+Collecting data...
+Generating '/tmp/nsys-report-f437.qdstrm'
+[1/1] [0%                          ] karted.nsys-rep[1/1] [0%                          ] karted.nsys-rep[1/1] [============57%             ] karted.nsys-rep[1/1] [========================100%] karted.nsys-rep[1/1] [========================100%] karted.nsys-rep
+Generated:
+	/workspace/./results/karted/karted.nsys-rep

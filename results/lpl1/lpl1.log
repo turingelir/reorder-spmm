@@ -1,0 +1,10 @@
+trying to load csr file "./data/lpl1/lpl1.mtxd_.hicsr"
+successfully loaded: "./data/lpl1/lpl1.mtxd_.hicsr"
+Matrix: 32460x32460: 328036 nonzeros
+ var-SpGEMM -> NNZ: 6882066
+ var-SpGEMM SpGEMM: 2.74664 ms
+Collecting data...
+Generating '/tmp/nsys-report-1715.qdstrm'
+[1/1] [0%                          ] lpl1.nsys-rep[1/1] [0%                          ] lpl1.nsys-rep[1/1] [===============67%          ] lpl1.nsys-rep[1/1] [========================100%] lpl1.nsys-rep[1/1] [========================100%] lpl1.nsys-rep
+Generated:
+	/workspace/./results/lpl1/lpl1.nsys-rep

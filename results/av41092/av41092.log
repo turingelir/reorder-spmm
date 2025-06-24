@@ -1,0 +1,10 @@
+trying to load csr file "./data/av41092/av41092.mtxd_.hicsr"
+successfully loaded: "./data/av41092/av41092.mtxd_.hicsr"
+Matrix: 41092x41092: 1683902 nonzeros
+ var-SpGEMM -> NNZ: 20880048
+ var-SpGEMM SpGEMM: 13.37 ms
+Collecting data...
+Generating '/tmp/nsys-report-f639.qdstrm'
+[1/1] [0%                          ] av41092.nsys-rep[1/1] [0%                          ] av41092.nsys-rep[1/1] [=============58%            ] av41092.nsys-rep[1/1] [========================100%] av41092.nsys-rep[1/1] [========================100%] av41092.nsys-rep
+Generated:
+	/workspace/./results/av41092/av41092.nsys-rep

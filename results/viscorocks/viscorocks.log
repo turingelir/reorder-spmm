@@ -1,0 +1,10 @@
+trying to load csr file "./data/viscorocks/viscorocks.mtxd_.hicsr"
+successfully loaded: "./data/viscorocks/viscorocks.mtxd_.hicsr"
+Matrix: 37762x37762: 1162244 nonzeros
+ var-SpGEMM -> NNZ: 4048724
+ var-SpGEMM SpGEMM: 2.84177 ms
+Collecting data...
+Generating '/tmp/nsys-report-e9da.qdstrm'
+[1/1] [0%                          ] viscorocks.nsys-rep[1/1] [0%                          ] viscorocks.nsys-rep[1/1] [==============64%           ] viscorocks.nsys-rep[1/1] [========================100%] viscorocks.nsys-rep[1/1] [========================100%] viscorocks.nsys-rep
+Generated:
+	/workspace/./results/viscorocks/viscorocks.nsys-rep

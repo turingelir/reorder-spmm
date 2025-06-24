@@ -1,0 +1,10 @@
+trying to load csr file "./data/bbmat/bbmat.mtxd_.hicsr"
+successfully loaded: "./data/bbmat/bbmat.mtxd_.hicsr"
+Matrix: 38744x38744: 1771722 nonzeros
+ var-SpGEMM -> NNZ: 11551062
+ var-SpGEMM SpGEMM: 9.01161 ms
+Collecting data...
+Generating '/tmp/nsys-report-664e.qdstrm'
+[1/1] [0%                          ] bbmat.nsys-rep[1/1] [0%                          ] bbmat.nsys-rep[1/1] [============57%             ] bbmat.nsys-rep[1/1] [========================100%] bbmat.nsys-rep[1/1] [========================100%] bbmat.nsys-rep
+Generated:
+	/workspace/./results/bbmat/bbmat.nsys-rep

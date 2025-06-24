@@ -1,0 +1,10 @@
+trying to load csr file "./data/vt2010/vt2010.mtxd_.hicsr"
+successfully loaded: "./data/vt2010/vt2010.mtxd_.hicsr"
+Matrix: 32580x32580: 155598 nonzeros
+ var-SpGEMM -> NNZ: 725350
+ var-SpGEMM SpGEMM: 0.437487 ms
+Collecting data...
+Generating '/tmp/nsys-report-ec3e.qdstrm'
+[1/1] [0%                          ] vt2010.nsys-rep[1/1] [0%                          ] vt2010.nsys-rep[1/1] [==============61%           ] vt2010.nsys-rep[1/1] [========================100%] vt2010.nsys-rep[1/1] [========================100%] vt2010.nsys-rep
+Generated:
+	/workspace/./results/vt2010/vt2010.nsys-rep

@@ -1,0 +1,10 @@
+trying to load csr file "./data/lhr34/reordered_rcm_lhr34.mtxd_.hicsr"
+could not load csr file:
+	could not open "./data/lhr34/reordered_rcm_lhr34.mtxd_.hicsr"
+trying to load mtx file "./data/lhr34/reordered_rcm_lhr34.mtx"
+Can only read MatrixMarket format that is in coordinate form
+Collecting data...
+Generating '/tmp/nsys-report-613b.qdstrm'
+[1/1] [0%                          ] reordered_rcm_lhr34.nsys-rep[1/1] [0%                          ] reordered_rcm_lhr34.nsys-rep[1/1] [==========48%               ] reordered_rcm_lhr34.nsys-rep[1/1] [=======================93%  ] reordered_rcm_lhr34.nsys-rep[1/1] [========================100%] reordered_rcm_lhr34.nsys-rep[1/1] [========================100%] reordered_rcm_lhr34.nsys-rep
+Generated:
+	/workspace/./results/lhr34/reordered_rcm_lhr34.nsys-rep

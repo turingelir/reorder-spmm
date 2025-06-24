@@ -1,0 +1,10 @@
+trying to load csr file "./data/lp_pds_20/lp_pds_20.mtxd_.hicsr"
+successfully loaded: "./data/lp_pds_20/lp_pds_20.mtxd_.hicsr"
+Matrix: 33874x108175: 232647 nonzeros
+ var-SpGEMM -> NNZ: 320120
+ var-SpGEMM SpGEMM: 0.423015 ms
+Collecting data...
+Generating '/tmp/nsys-report-c52b.qdstrm'
+[1/1] [0%                          ] lp_pds_20.nsys-rep[1/1] [0%                          ] lp_pds_20.nsys-rep[1/1] [==============61%           ] lp_pds_20.nsys-rep[1/1] [========================100%] lp_pds_20.nsys-rep[1/1] [========================100%] lp_pds_20.nsys-rep
+Generated:
+	/workspace/./results/lp_pds_20/lp_pds_20.nsys-rep

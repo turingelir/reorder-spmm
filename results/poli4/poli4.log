@@ -1,0 +1,10 @@
+trying to load csr file "./data/poli4/poli4.mtxd_.hicsr"
+successfully loaded: "./data/poli4/poli4.mtxd_.hicsr"
+Matrix: 33833x33833: 73249 nonzeros
+ var-SpGEMM -> NNZ: 132673
+ var-SpGEMM SpGEMM: 0.483772 ms
+Collecting data...
+Generating '/tmp/nsys-report-e47e.qdstrm'
+[1/1] [0%                          ] poli4.nsys-rep[1/1] [0%                          ] poli4.nsys-rep[1/1] [===============65%          ] poli4.nsys-rep[1/1] [========================100%] poli4.nsys-rep[1/1] [========================100%] poli4.nsys-rep
+Generated:
+	/workspace/./results/poli4/poli4.nsys-rep

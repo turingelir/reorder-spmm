@@ -1,0 +1,10 @@
+trying to load csr file "./data/av41092/reordered_rcm_av41092.mtxd_.hicsr"
+successfully loaded: "./data/av41092/reordered_rcm_av41092.mtxd_.hicsr"
+Matrix: 41092x41092: 1683902 nonzeros
+ var-SpGEMM -> NNZ: 20880048
+ var-SpGEMM SpGEMM: 12.563 ms
+Collecting data...
+Generating '/tmp/nsys-report-a1dc.qdstrm'
+[1/1] [0%                          ] reordered_rcm_av41092.nsys-rep[1/1] [0%                          ] reordered_rcm_av41092.nsys-rep[1/1] [=============58%            ] reordered_rcm_av41092.nsys-rep[1/1] [========================100%] reordered_rcm_av41092.nsys-rep[1/1] [========================100%] reordered_rcm_av41092.nsys-rep
+Generated:
+	/workspace/./results/av41092/reordered_rcm_av41092.nsys-rep

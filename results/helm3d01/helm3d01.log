@@ -1,0 +1,10 @@
+trying to load csr file "./data/helm3d01/helm3d01.mtxd_.hicsr"
+successfully loaded: "./data/helm3d01/helm3d01.mtxd_.hicsr"
+Matrix: 32226x32226: 428444 nonzeros
+ var-SpGEMM -> NNZ: 2591714
+ var-SpGEMM SpGEMM: 1.1308 ms
+Collecting data...
+Generating '/tmp/nsys-report-3efb.qdstrm'
+[1/1] [0%                          ] helm3d01.nsys-rep[1/1] [0%                          ] helm3d01.nsys-rep[1/1] [===========53%              ] helm3d01.nsys-rep[1/1] [========================100%] helm3d01.nsys-rep[1/1] [========================100%] helm3d01.nsys-rep
+Generated:
+	/workspace/./results/helm3d01/helm3d01.nsys-rep

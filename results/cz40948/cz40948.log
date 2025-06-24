@@ -1,0 +1,10 @@
+trying to load csr file "./data/cz40948/cz40948.mtxd_.hicsr"
+successfully loaded: "./data/cz40948/cz40948.mtxd_.hicsr"
+Matrix: 40948x40948: 412148 nonzeros
+ var-SpGEMM -> NNZ: 969156
+ var-SpGEMM SpGEMM: 0.679882 ms
+Collecting data...
+Generating '/tmp/nsys-report-8c7f.qdstrm'
+[1/1] [0%                          ] cz40948.nsys-rep[1/1] [0%                          ] cz40948.nsys-rep[1/1] [===========53%              ] cz40948.nsys-rep[1/1] [========================100%] cz40948.nsys-rep[1/1] [========================100%] cz40948.nsys-rep
+Generated:
+	/workspace/./results/cz40948/cz40948.nsys-rep

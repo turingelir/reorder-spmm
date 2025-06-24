@@ -1,0 +1,10 @@
+trying to load csr file "./data/Maragal_8/Maragal_8.mtxd_.hicsr"
+successfully loaded: "./data/Maragal_8/Maragal_8.mtxd_.hicsr"
+Matrix: 33212x75077: 1308415 nonzeros
+ var-SpGEMM -> NNZ: 38998447
+ var-SpGEMM SpGEMM: 24.6653 ms
+Collecting data...
+Generating '/tmp/nsys-report-f4d2.qdstrm'
+[1/1] [0%                          ] Maragal_8.nsys-rep[1/1] [0%                          ] Maragal_8.nsys-rep[1/1] [=============58%            ] Maragal_8.nsys-rep[1/1] [========================100%] Maragal_8.nsys-rep[1/1] [========================100%] Maragal_8.nsys-rep
+Generated:
+	/workspace/./results/Maragal_8/Maragal_8.nsys-rep

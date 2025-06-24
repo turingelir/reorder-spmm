@@ -1,0 +1,10 @@
+trying to load csr file "./data/c-58/c-58.mtxd_.hicsr"
+successfully loaded: "./data/c-58/c-58.mtxd_.hicsr"
+Matrix: 37595x37595: 552557 nonzeros
+ var-SpGEMM -> NNZ: 40461781
+ var-SpGEMM SpGEMM: 16.5192 ms
+Collecting data...
+Generating '/tmp/nsys-report-f253.qdstrm'
+[1/1] [0%                          ] c-58.nsys-rep[1/1] [0%                          ] c-58.nsys-rep[1/1] [=============58%            ] c-58.nsys-rep[1/1] [========================100%] c-58.nsys-rep[1/1] [========================100%] c-58.nsys-rep
+Generated:
+	/workspace/./results/c-58/c-58.nsys-rep

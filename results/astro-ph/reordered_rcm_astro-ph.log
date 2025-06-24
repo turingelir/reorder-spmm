@@ -1,0 +1,10 @@
+trying to load csr file "./data/astro-ph/reordered_rcm_astro-ph.mtxd_.hicsr"
+successfully loaded: "./data/astro-ph/reordered_rcm_astro-ph.mtxd_.hicsr"
+Matrix: 16706x16706: 121251 nonzeros
+ var-SpGEMM -> NNZ: 939130
+ var-SpGEMM SpGEMM: 0.733546 ms
+Collecting data...
+Generating '/tmp/nsys-report-d16f.qdstrm'
+[1/1] [0%                          ] reordered_rcm_astro-ph.nsys-rep[1/1] [0%                          ] reordered_rcm_astro-ph.nsys-rep[1/1] [============55%             ] reordered_rcm_astro-ph.nsys-rep[1/1] [========================100%] reordered_rcm_astro-ph.nsys-rep[1/1] [========================100%] reordered_rcm_astro-ph.nsys-rep
+Generated:
+	/workspace/./results/astro-ph/reordered_rcm_astro-ph.nsys-rep

@@ -1,0 +1,10 @@
+trying to load csr file "./data/mark3jac080/mark3jac080.mtxd_.hicsr"
+successfully loaded: "./data/mark3jac080/mark3jac080.mtxd_.hicsr"
+Matrix: 36609x36609: 227955 nonzeros
+ var-SpGEMM -> NNZ: 1035125
+ var-SpGEMM SpGEMM: 0.597595 ms
+Collecting data...
+Generating '/tmp/nsys-report-9ae3.qdstrm'
+[1/1] [0%                          ] mark3jac080.nsys-rep[1/1] [0%                          ] mark3jac080.nsys-rep[1/1] [=============60%            ] mark3jac080.nsys-rep[1/1] [========================100%] mark3jac080.nsys-rep[1/1] [========================100%] mark3jac080.nsys-rep
+Generated:
+	/workspace/./results/mark3jac080/mark3jac080.nsys-rep

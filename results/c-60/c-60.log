@@ -1,0 +1,10 @@
+trying to load csr file "./data/c-60/c-60.mtxd_.hicsr"
+successfully loaded: "./data/c-60/c-60.mtxd_.hicsr"
+Matrix: 43640x43640: 298578 nonzeros
+ var-SpGEMM -> NNZ: 6853724
+ var-SpGEMM SpGEMM: 3.27261 ms
+Collecting data...
+Generating '/tmp/nsys-report-c4b8.qdstrm'
+[1/1] [0%                          ] c-60.nsys-rep[1/1] [0%                          ] c-60.nsys-rep[1/1] [=============58%            ] c-60.nsys-rep[1/1] [========================100%] c-60.nsys-rep[1/1] [========================100%] c-60.nsys-rep
+Generated:
+	/workspace/./results/c-60/c-60.nsys-rep

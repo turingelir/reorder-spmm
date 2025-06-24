@@ -1,0 +1,10 @@
+trying to load csr file "./data/onetone1/onetone1.mtxd_.hicsr"
+successfully loaded: "./data/onetone1/onetone1.mtxd_.hicsr"
+Matrix: 36057x36057: 341088 nonzeros
+ var-SpGEMM -> NNZ: 1953351
+ var-SpGEMM SpGEMM: 1.23917 ms
+Collecting data...
+Generating '/tmp/nsys-report-cddc.qdstrm'
+[1/1] [0%                          ] onetone1.nsys-rep[1/1] [0%                          ] onetone1.nsys-rep[1/1] [==============61%           ] onetone1.nsys-rep[1/1] [========================100%] onetone1.nsys-rep[1/1] [========================100%] onetone1.nsys-rep
+Generated:
+	/workspace/./results/onetone1/onetone1.nsys-rep

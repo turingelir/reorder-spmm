@@ -1,0 +1,10 @@
+trying to load csr file "./data/lhr34/lhr34.mtxd_.hicsr"
+successfully loaded: "./data/lhr34/lhr34.mtxd_.hicsr"
+Matrix: 35152x35152: 764014 nonzeros
+ var-SpGEMM -> NNZ: 4124758
+ var-SpGEMM SpGEMM: 2.15914 ms
+Collecting data...
+Generating '/tmp/nsys-report-3c3c.qdstrm'
+[1/1] [0%                          ] lhr34.nsys-rep[1/1] [0%                          ] lhr34.nsys-rep[1/1] [===========53%              ] lhr34.nsys-rep[1/1] [============54%             ] lhr34.nsys-rep[1/1] [========================100%] lhr34.nsys-rep[1/1] [========================100%] lhr34.nsys-rep
+Generated:
+	/workspace/./results/lhr34/lhr34.nsys-rep

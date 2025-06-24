@@ -1,0 +1,10 @@
+trying to load csr file "./data/OPF_10000/reordered_rcm_OPF_10000.mtxd_.hicsr"
+successfully loaded: "./data/OPF_10000/reordered_rcm_OPF_10000.mtxd_.hicsr"
+Matrix: 43887x43887: 255799 nonzeros
+ var-SpGEMM -> NNZ: 532069
+ var-SpGEMM SpGEMM: 0.454048 ms
+Collecting data...
+Generating '/tmp/nsys-report-fcba.qdstrm'
+[1/1] [0%                          ] reordered_rcm_OPF_10000.nsys-rep[1/1] [0%                          ] reordered_rcm_OPF_10000.nsys-rep[1/1] [===========53%              ] reordered_rcm_OPF_10000.nsys-rep[1/1] [============54%             ] reordered_rcm_OPF_10000.nsys-rep[1/1] [========================100%] reordered_rcm_OPF_10000.nsys-rep[1/1] [========================100%] reordered_rcm_OPF_10000.nsys-rep
+Generated:
+	/workspace/./results/OPF_10000/reordered_rcm_OPF_10000.nsys-rep

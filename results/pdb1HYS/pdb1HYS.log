@@ -1,0 +1,10 @@
+trying to load csr file "./data/pdb1HYS/pdb1HYS.mtxd_.hicsr"
+successfully loaded: "./data/pdb1HYS/pdb1HYS.mtxd_.hicsr"
+Matrix: 36417x36417: 4344765 nonzeros
+ var-SpGEMM -> NNZ: 19594581
+ var-SpGEMM SpGEMM: 37.8583 ms
+Collecting data...
+Generating '/tmp/nsys-report-499e.qdstrm'
+[1/1] [0%                          ] pdb1HYS.nsys-rep[1/1] [0%                          ] pdb1HYS.nsys-rep[1/1] [===============67%          ] pdb1HYS.nsys-rep[1/1] [========================100%] pdb1HYS.nsys-rep[1/1] [========================100%] pdb1HYS.nsys-rep
+Generated:
+	/workspace/./results/pdb1HYS/pdb1HYS.nsys-rep

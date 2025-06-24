@@ -1,0 +1,10 @@
+trying to load csr file "./data/jan99jac100sc/jan99jac100sc.mtxd_.hicsr"
+successfully loaded: "./data/jan99jac100sc/jan99jac100sc.mtxd_.hicsr"
+Matrix: 34454x34454: 215862 nonzeros
+ var-SpGEMM -> NNZ: 1144715
+ var-SpGEMM SpGEMM: 0.863514 ms
+Collecting data...
+Generating '/tmp/nsys-report-c247.qdstrm'
+[1/1] [0%                          ] jan99jac100sc.nsys-rep[1/1] [0%                          ] jan99jac100sc.nsys-rep[1/1] [============55%             ] jan99jac100sc.nsys-rep[1/1] [========================100%] jan99jac100sc.nsys-rep[1/1] [========================100%] jan99jac100sc.nsys-rep
+Generated:
+	/workspace/./results/jan99jac100sc/jan99jac100sc.nsys-rep

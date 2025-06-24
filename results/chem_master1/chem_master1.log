@@ -1,0 +1,10 @@
+trying to load csr file "./data/chem_master1/chem_master1.mtxd_.hicsr"
+successfully loaded: "./data/chem_master1/chem_master1.mtxd_.hicsr"
+Matrix: 40401x40401: 201201 nonzeros
+ var-SpGEMM -> NNZ: 521197
+ var-SpGEMM SpGEMM: 0.275376 ms
+Collecting data...
+Generating '/tmp/nsys-report-b1ef.qdstrm'
+[1/1] [0%                          ] chem_master1.nsys-rep[1/1] [0%                          ] chem_master1.nsys-rep[1/1] [===========53%              ] chem_master1.nsys-rep[1/1] [============54%             ] chem_master1.nsys-rep[1/1] [========================100%] chem_master1.nsys-rep[1/1] [========================100%] chem_master1.nsys-rep
+Generated:
+	/workspace/./results/chem_master1/chem_master1.nsys-rep

@@ -1,0 +1,10 @@
+trying to load csr file "./data/delaunay_n15/delaunay_n15.mtxd_.hicsr"
+successfully loaded: "./data/delaunay_n15/delaunay_n15.mtxd_.hicsr"
+Matrix: 32768x32768: 196548 nonzeros
+ var-SpGEMM -> NNZ: 679746
+ var-SpGEMM SpGEMM: 0.428198 ms
+Collecting data...
+Generating '/tmp/nsys-report-82ec.qdstrm'
+[1/1] [0%                          ] delaunay_n15.nsys-rep[1/1] [0%                          ] delaunay_n15.nsys-rep[1/1] [===========53%              ] delaunay_n15.nsys-rep[1/1] [============54%             ] delaunay_n15.nsys-rep[1/1] [========================100%] delaunay_n15.nsys-rep[1/1] [========================100%] delaunay_n15.nsys-rep
+Generated:
+	/workspace/./results/delaunay_n15/delaunay_n15.nsys-rep

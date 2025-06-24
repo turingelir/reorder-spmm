@@ -1,0 +1,10 @@
+trying to load csr file "./data/kim1/reordered_rcm_kim1.mtxd_.hicsr"
+successfully loaded: "./data/kim1/reordered_rcm_kim1.mtxd_.hicsr"
+Matrix: 38415x38415: 933195 nonzeros
+ var-SpGEMM -> NNZ: 3003795
+ var-SpGEMM SpGEMM: 1.98878 ms
+Collecting data...
+Generating '/tmp/nsys-report-5814.qdstrm'
+[1/1] [0%                          ] reordered_rcm_kim1.nsys-rep[1/1] [0%                          ] reordered_rcm_kim1.nsys-rep[1/1] [============55%             ] reordered_rcm_kim1.nsys-rep[1/1] [========================100%] reordered_rcm_kim1.nsys-rep[1/1] [========================100%] reordered_rcm_kim1.nsys-rep
+Generated:
+	/workspace/./results/kim1/reordered_rcm_kim1.nsys-rep

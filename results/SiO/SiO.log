@@ -1,0 +1,10 @@
+trying to load csr file "./data/SiO/SiO.mtxd_.hicsr"
+successfully loaded: "./data/SiO/SiO.mtxd_.hicsr"
+Matrix: 33401x33401: 1317655 nonzeros
+ var-SpGEMM -> NNZ: 15778377
+ var-SpGEMM SpGEMM: 12.434 ms
+Collecting data...
+Generating '/tmp/nsys-report-a98d.qdstrm'
+[1/1] [0%                          ] SiO.nsys-rep[1/1] [0%                          ] SiO.nsys-rep[1/1] [=============58%            ] SiO.nsys-rep[1/1] [========================100%] SiO.nsys-rep[1/1] [========================100%] SiO.nsys-rep
+Generated:
+	/workspace/./results/SiO/SiO.nsys-rep

@@ -1,0 +1,10 @@
+trying to load csr file "./data/Zhao2/reordered_metis_Zhao2.mtxd_.hicsr"
+successfully loaded: "./data/Zhao2/reordered_metis_Zhao2.mtxd_.hicsr"
+Matrix: 33861x33861: 166453 nonzeros
+ var-SpGEMM -> NNZ: 552997
+ var-SpGEMM SpGEMM: 0.298909 ms
+Collecting data...
+Generating '/tmp/nsys-report-9fa8.qdstrm'
+[1/1] [0%                          ] reordered_metis_Zhao2.nsys-rep[1/1] [0%                          ] reordered_metis_Zhao2.nsys-rep[1/1] [==============61%           ] reordered_metis_Zhao2.nsys-rep[1/1] [========================100%] reordered_metis_Zhao2.nsys-rep[1/1] [========================100%] reordered_metis_Zhao2.nsys-rep
+Generated:
+	/workspace/./results/Zhao2/reordered_metis_Zhao2.nsys-rep

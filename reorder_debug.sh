@@ -1,0 +1,1 @@
+python reorder.py --file data/jan99jac100sc/jan99jac100sc.mtx --partition-method metis --reorder-method rcm 

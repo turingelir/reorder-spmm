@@ -1,0 +1,10 @@
+trying to load csr file "./data/finance256/reordered_metis_finance256.mtxd_.hicsr"
+successfully loaded: "./data/finance256/reordered_metis_finance256.mtxd_.hicsr"
+Matrix: 37376x37376: 167936 nonzeros
+ var-SpGEMM -> NNZ: 646587
+ var-SpGEMM SpGEMM: 0.405981 ms
+Collecting data...
+Generating '/tmp/nsys-report-c0c8.qdstrm'
+[1/1] [0%                          ] reordered_metis_finance256.nsys-rep[1/1] [0%                          ] reordered_metis_finance256.nsys-rep[1/1] [==============61%           ] reordered_metis_finance256.nsys-rep[1/1] [========================100%] reordered_metis_finance256.nsys-rep[1/1] [========================100%] reordered_metis_finance256.nsys-rep
+Generated:
+	/workspace/./results/finance256/reordered_metis_finance256.nsys-rep

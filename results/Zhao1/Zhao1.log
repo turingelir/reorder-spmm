@@ -1,0 +1,10 @@
+trying to load csr file "./data/Zhao1/Zhao1.mtxd_.hicsr"
+successfully loaded: "./data/Zhao1/Zhao1.mtxd_.hicsr"
+Matrix: 33861x33861: 166453 nonzeros
+ var-SpGEMM -> NNZ: 552997
+ var-SpGEMM SpGEMM: 0.289005 ms
+Collecting data...
+Generating '/tmp/nsys-report-83c8.qdstrm'
+[1/1] [0%                          ] Zhao1.nsys-rep[1/1] [0%                          ] Zhao1.nsys-rep[1/1] [===========53%              ] Zhao1.nsys-rep[1/1] [============54%             ] Zhao1.nsys-rep[1/1] [========================100%] Zhao1.nsys-rep[1/1] [========================100%] Zhao1.nsys-rep
+Generated:
+	/workspace/./results/Zhao1/Zhao1.nsys-rep

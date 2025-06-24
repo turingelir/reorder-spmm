@@ -1,0 +1,10 @@
+trying to load csr file "./data/astro-ph/reordered_louvain_astro-ph.mtxd_.hicsr"
+successfully loaded: "./data/astro-ph/reordered_louvain_astro-ph.mtxd_.hicsr"
+Matrix: 16706x16706: 121251 nonzeros
+ var-SpGEMM -> NNZ: 960246
+ var-SpGEMM SpGEMM: 0.717788 ms
+Collecting data...
+Generating '/tmp/nsys-report-5b12.qdstrm'
+[1/1] [0%                          ] reordered_louvain_astro-ph.nsys-rep[1/1] [0%                          ] reordered_louvain_astro-ph.nsys-rep[1/1] [===============67%          ] reordered_louvain_astro-ph.nsys-rep[1/1] [========================100%] reordered_louvain_astro-ph.nsys-rep[1/1] [========================100%] reordered_louvain_astro-ph.nsys-rep
+Generated:
+	/workspace/./results/astro-ph/reordered_louvain_astro-ph.nsys-rep

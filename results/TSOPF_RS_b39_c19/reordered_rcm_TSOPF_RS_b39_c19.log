@@ -1,0 +1,10 @@
+trying to load csr file "./data/TSOPF_RS_b39_c19/reordered_rcm_TSOPF_RS_b39_c19.mtxd_.hicsr"
+successfully loaded: "./data/TSOPF_RS_b39_c19/reordered_rcm_TSOPF_RS_b39_c19.mtxd_.hicsr"
+Matrix: 38098x38098: 684206 nonzeros
+ var-SpGEMM -> NNZ: 2686495
+ var-SpGEMM SpGEMM: 0.912512 ms
+Collecting data...
+Generating '/tmp/nsys-report-9c1d.qdstrm'
+[1/1] [0%                          ] reordered_rcm_TSOPF_RS_b39_c19.nsys-rep[1/1] [0%                          ] reordered_rcm_TSOPF_RS_b39_c19.nsys-rep[1/1] [===========53%              ] reordered_rcm_TSOPF_RS_b39_c19.nsys-rep[1/1] [============54%             ] reordered_rcm_TSOPF_RS_b39_c19.nsys-rep[1/1] [========================100%] reordered_rcm_TSOPF_RS_b39_c19.nsys-rep[1/1] [========================100%] reordered_rcm_TSOPF_RS_b39_c19.nsys-rep
+Generated:
+	/workspace/./results/TSOPF_RS_b39_c19/reordered_rcm_TSOPF_RS_b39_c19.nsys-rep

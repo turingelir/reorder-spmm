@@ -1,0 +1,10 @@
+trying to load csr file "./data/rajat22/rajat22.mtxd_.hicsr"
+successfully loaded: "./data/rajat22/rajat22.mtxd_.hicsr"
+Matrix: 39899x39899: 197264 nonzeros
+ var-SpGEMM -> NNZ: 24193440
+ var-SpGEMM SpGEMM: 8.36427 ms
+Collecting data...
+Generating '/tmp/nsys-report-cfba.qdstrm'
+[1/1] [0%                          ] rajat22.nsys-rep[1/1] [0%                          ] rajat22.nsys-rep[1/1] [=============58%            ] rajat22.nsys-rep[1/1] [================69%         ] rajat22.nsys-rep[1/1] [========================100%] rajat22.nsys-rep[1/1] [========================100%] rajat22.nsys-rep
+Generated:
+	/workspace/./results/rajat22/rajat22.nsys-rep

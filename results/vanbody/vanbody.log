@@ -1,0 +1,10 @@
+trying to load csr file "./data/vanbody/vanbody.mtxd_.hicsr"
+successfully loaded: "./data/vanbody/vanbody.mtxd_.hicsr"
+Matrix: 47072x47072: 2336898 nonzeros
+ var-SpGEMM -> NNZ: 8053562
+ var-SpGEMM SpGEMM: 9.0528 ms
+Collecting data...
+Generating '/tmp/nsys-report-e3db.qdstrm'
+[1/1] [0%                          ] vanbody.nsys-rep[1/1] [0%                          ] vanbody.nsys-rep[1/1] [===============66%          ] vanbody.nsys-rep[1/1] [===============67%          ] vanbody.nsys-rep[1/1] [========================100%] vanbody.nsys-rep[1/1] [========================100%] vanbody.nsys-rep
+Generated:
+	/workspace/./results/vanbody/vanbody.nsys-rep

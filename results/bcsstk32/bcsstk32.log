@@ -1,0 +1,10 @@
+trying to load csr file "./data/bcsstk32/bcsstk32.mtxd_.hicsr"
+successfully loaded: "./data/bcsstk32/bcsstk32.mtxd_.hicsr"
+Matrix: 44609x44609: 2014701 nonzeros
+ var-SpGEMM -> NNZ: 6819653
+ var-SpGEMM SpGEMM: 6.69185 ms
+Collecting data...
+Generating '/tmp/nsys-report-83e8.qdstrm'
+[1/1] [0%                          ] bcsstk32.nsys-rep[1/1] [0%                          ] bcsstk32.nsys-rep[1/1] [============55%             ] bcsstk32.nsys-rep[1/1] [============56%             ] bcsstk32.nsys-rep[1/1] [========================100%] bcsstk32.nsys-rep[1/1] [========================100%] bcsstk32.nsys-rep
+Generated:
+	/workspace/./results/bcsstk32/bcsstk32.nsys-rep

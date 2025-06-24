@@ -1,0 +1,10 @@
+trying to load csr file "./data/net150/reordered_louvain_net150.mtxd_.hicsr"
+successfully loaded: "./data/net150/reordered_louvain_net150.mtxd_.hicsr"
+Matrix: 43520x43520: 1582360 nonzeros
+ var-SpGEMM -> NNZ: 44212400
+ var-SpGEMM SpGEMM: 26.2025 ms
+Collecting data...
+Generating '/tmp/nsys-report-9233.qdstrm'
+[1/1] [0%                          ] reordered_louvain_net150.nsys-rep[1/1] [0%                          ] reordered_louvain_net150.nsys-rep[1/1] [==============63%           ] reordered_louvain_net150.nsys-rep[1/1] [================70%         ] reordered_louvain_net150.nsys-rep[1/1] [========================100%] reordered_louvain_net150.nsys-rep[1/1] [========================100%] reordered_louvain_net150.nsys-rep
+Generated:
+	/workspace/./results/net150/reordered_louvain_net150.nsys-rep

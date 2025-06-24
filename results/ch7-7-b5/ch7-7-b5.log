@@ -1,0 +1,10 @@
+trying to load csr file "./data/ch7-7-b5/ch7-7-b5.mtxd_.hicsr"
+successfully loaded: "./data/ch7-7-b5/ch7-7-b5.mtxd_.hicsr"
+Matrix: 35280x52920: 211680 nonzeros
+ var-SpGEMM -> NNZ: 670320
+ var-SpGEMM SpGEMM: 0.420147 ms
+Collecting data...
+Generating '/tmp/nsys-report-f232.qdstrm'
+[1/1] [0%                          ] ch7-7-b5.nsys-rep[1/1] [0%                          ] ch7-7-b5.nsys-rep[1/1] [============54%             ] ch7-7-b5.nsys-rep[1/1] [========================100%] ch7-7-b5.nsys-rep[1/1] [========================100%] ch7-7-b5.nsys-rep
+Generated:
+	/workspace/./results/ch7-7-b5/ch7-7-b5.nsys-rep

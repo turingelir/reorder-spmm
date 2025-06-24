@@ -1,0 +1,10 @@
+trying to load csr file "./data/wathen120/wathen120.mtxd_.hicsr"
+successfully loaded: "./data/wathen120/wathen120.mtxd_.hicsr"
+Matrix: 36441x36441: 565761 nonzeros
+ var-SpGEMM -> NNZ: 1990381
+ var-SpGEMM SpGEMM: 0.968617 ms
+Collecting data...
+Generating '/tmp/nsys-report-089f.qdstrm'
+[1/1] [0%                          ] wathen120.nsys-rep[1/1] [0%                          ] wathen120.nsys-rep[1/1] [==============61%           ] wathen120.nsys-rep[1/1] [========================100%] wathen120.nsys-rep[1/1] [========================100%] wathen120.nsys-rep
+Generated:
+	/workspace/./results/wathen120/wathen120.nsys-rep

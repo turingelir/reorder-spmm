@@ -1,0 +1,10 @@
+trying to load csr file "./data/shock-9/shock-9.mtxd_.hicsr"
+successfully loaded: "./data/shock-9/shock-9.mtxd_.hicsr"
+Matrix: 36476x36476: 142580 nonzeros
+ var-SpGEMM -> NNZ: 322480
+ var-SpGEMM SpGEMM: 0.212817 ms
+Collecting data...
+Generating '/tmp/nsys-report-b1bf.qdstrm'
+[1/1] [0%                          ] shock-9.nsys-rep[1/1] [0%                          ] shock-9.nsys-rep[1/1] [==============61%           ] shock-9.nsys-rep[1/1] [========================100%] shock-9.nsys-rep[1/1] [========================100%] shock-9.nsys-rep
+Generated:
+	/workspace/./results/shock-9/shock-9.nsys-rep

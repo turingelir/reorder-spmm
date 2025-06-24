@@ -1,0 +1,10 @@
+trying to load csr file "./data/Goodwin_054/Goodwin_054.mtxd_.hicsr"
+successfully loaded: "./data/Goodwin_054/Goodwin_054.mtxd_.hicsr"
+Matrix: 32510x32510: 1030878 nonzeros
+ var-SpGEMM -> NNZ: 4761495
+ var-SpGEMM SpGEMM: 3.15436 ms
+Collecting data...
+Generating '/tmp/nsys-report-0bd8.qdstrm'
+[1/1] [0%                          ] Goodwin_054.nsys-rep[1/1] [0%                          ] Goodwin_054.nsys-rep[1/1] [============55%             ] Goodwin_054.nsys-rep[1/1] [========================100%] Goodwin_054.nsys-rep[1/1] [========================100%] Goodwin_054.nsys-rep
+Generated:
+	/workspace/./results/Goodwin_054/Goodwin_054.nsys-rep

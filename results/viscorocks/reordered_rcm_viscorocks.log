@@ -1,0 +1,10 @@
+trying to load csr file "./data/viscorocks/reordered_rcm_viscorocks.mtxd_.hicsr"
+successfully loaded: "./data/viscorocks/reordered_rcm_viscorocks.mtxd_.hicsr"
+Matrix: 37762x37762: 1162244 nonzeros
+ var-SpGEMM -> NNZ: 4048724
+ var-SpGEMM SpGEMM: 2.95155 ms
+Collecting data...
+Generating '/tmp/nsys-report-7736.qdstrm'
+[1/1] [0%                          ] reordered_rcm_viscorocks.nsys-rep[1/1] [0%                          ] reordered_rcm_viscorocks.nsys-rep[1/1] [==============64%           ] reordered_rcm_viscorocks.nsys-rep[1/1] [========================100%] reordered_rcm_viscorocks.nsys-rep[1/1] [========================100%] reordered_rcm_viscorocks.nsys-rep
+Generated:
+	/workspace/./results/viscorocks/reordered_rcm_viscorocks.nsys-rep

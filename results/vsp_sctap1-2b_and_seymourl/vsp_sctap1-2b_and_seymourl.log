@@ -1,0 +1,10 @@
+trying to load csr file "./data/vsp_sctap1-2b_and_seymourl/vsp_sctap1-2b_and_seymourl.mtxd_.hicsr"
+successfully loaded: "./data/vsp_sctap1-2b_and_seymourl/vsp_sctap1-2b_and_seymourl.mtxd_.hicsr"
+Matrix: 40174x40174: 281662 nonzeros
+ var-SpGEMM -> NNZ: 25359868
+ var-SpGEMM SpGEMM: 11.1434 ms
+Collecting data...
+Generating '/tmp/nsys-report-06d1.qdstrm'
+[1/1] [0%                          ] vsp_sctap1-2b_and_seymourl.nsys-rep[1/1] [0%                          ] vsp_sctap1-2b_and_seymourl.nsys-rep[1/1] [=============58%            ] vsp_sctap1-2b_and_seymourl.nsys-rep[1/1] [================69%         ] vsp_sctap1-2b_and_seymourl.nsys-rep[1/1] [========================100%] vsp_sctap1-2b_and_seymourl.nsys-rep[1/1] [========================100%] vsp_sctap1-2b_and_seymourl.nsys-rep
+Generated:
+	/workspace/./results/vsp_sctap1-2b_and_seymourl/vsp_sctap1-2b_and_seymourl.nsys-rep

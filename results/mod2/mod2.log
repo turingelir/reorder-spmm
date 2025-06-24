@@ -1,0 +1,10 @@
+trying to load csr file "./data/mod2/mod2.mtxd_.hicsr"
+successfully loaded: "./data/mod2/mod2.mtxd_.hicsr"
+Matrix: 34774x66409: 199810 nonzeros
+ var-SpGEMM -> NNZ: 604910
+ var-SpGEMM SpGEMM: 0.978499 ms
+Collecting data...
+Generating '/tmp/nsys-report-a503.qdstrm'
+[1/1] [0%                          ] mod2.nsys-rep[1/1] [0%                          ] mod2.nsys-rep[1/1] [==============64%           ] mod2.nsys-rep[1/1] [========================100%] mod2.nsys-rep[1/1] [========================100%] mod2.nsys-rep
+Generated:
+	/workspace/./results/mod2/mod2.nsys-rep

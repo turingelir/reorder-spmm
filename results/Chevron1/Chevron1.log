@@ -1,0 +1,10 @@
+trying to load csr file "./data/Chevron1/Chevron1.mtxd_.hicsr"
+successfully loaded: "./data/Chevron1/Chevron1.mtxd_.hicsr"
+Matrix: 37365x37365: 330633 nonzeros
+ var-SpGEMM -> NNZ: 917161
+ var-SpGEMM SpGEMM: 0.516826 ms
+Collecting data...
+Generating '/tmp/nsys-report-b584.qdstrm'
+[1/1] [0%                          ] Chevron1.nsys-rep[1/1] [0%                          ] Chevron1.nsys-rep[1/1] [===========53%              ] Chevron1.nsys-rep[1/1] [============54%             ] Chevron1.nsys-rep[1/1] [========================100%] Chevron1.nsys-rep[1/1] [========================100%] Chevron1.nsys-rep
+Generated:
+	/workspace/./results/Chevron1/Chevron1.nsys-rep

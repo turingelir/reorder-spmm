@@ -1,0 +1,10 @@
+trying to load csr file "./data/jan99jac120sc/reordered_rcm_jan99jac120sc.mtxd_.hicsr"
+successfully loaded: "./data/jan99jac120sc/reordered_rcm_jan99jac120sc.mtxd_.hicsr"
+Matrix: 41374x41374: 260202 nonzeros
+ var-SpGEMM -> NNZ: 1385275
+ var-SpGEMM SpGEMM: 0.912746 ms
+Collecting data...
+Generating '/tmp/nsys-report-620f.qdstrm'
+[1/1] [0%                          ] reordered_rcm_jan99jac120sc.nsys-rep[1/1] [0%                          ] reordered_rcm_jan99jac120sc.nsys-rep[1/1] [============55%             ] reordered_rcm_jan99jac120sc.nsys-rep[1/1] [========================100%] reordered_rcm_jan99jac120sc.nsys-rep[1/1] [========================100%] reordered_rcm_jan99jac120sc.nsys-rep
+Generated:
+	/workspace/./results/jan99jac120sc/reordered_rcm_jan99jac120sc.nsys-rep

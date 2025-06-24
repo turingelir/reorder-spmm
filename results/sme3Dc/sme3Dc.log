@@ -1,0 +1,10 @@
+trying to load csr file "./data/sme3Dc/sme3Dc.mtxd_.hicsr"
+successfully loaded: "./data/sme3Dc/sme3Dc.mtxd_.hicsr"
+Matrix: 42930x42930: 3148656 nonzeros
+ var-SpGEMM -> NNZ: 22744224
+ var-SpGEMM SpGEMM: 27.8154 ms
+Collecting data...
+Generating '/tmp/nsys-report-2b89.qdstrm'
+[1/1] [0%                          ] sme3Dc.nsys-rep[1/1] [0%                          ] sme3Dc.nsys-rep[1/1] [===============67%          ] sme3Dc.nsys-rep[1/1] [========================100%] sme3Dc.nsys-rep[1/1] [========================100%] sme3Dc.nsys-rep
+Generated:
+	/workspace/./results/sme3Dc/sme3Dc.nsys-rep

@@ -1,0 +1,10 @@
+trying to load csr file "./data/net150/reordered_rcm_net150.mtxd_.hicsr"
+successfully loaded: "./data/net150/reordered_rcm_net150.mtxd_.hicsr"
+Matrix: 43520x43520: 1582360 nonzeros
+ var-SpGEMM -> NNZ: 21496837
+ var-SpGEMM SpGEMM: 9.2193 ms
+Collecting data...
+Generating '/tmp/nsys-report-6ae1.qdstrm'
+[1/1] [0%                          ] reordered_rcm_net150.nsys-rep[1/1] [0%                          ] reordered_rcm_net150.nsys-rep[1/1] [===============66%          ] reordered_rcm_net150.nsys-rep[1/1] [========================100%] reordered_rcm_net150.nsys-rep[1/1] [========================100%] reordered_rcm_net150.nsys-rep
+Generated:
+	/workspace/./results/net150/reordered_rcm_net150.nsys-rep

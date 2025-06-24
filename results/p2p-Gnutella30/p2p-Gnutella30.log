@@ -1,0 +1,10 @@
+trying to load csr file "./data/p2p-Gnutella30/p2p-Gnutella30.mtxd_.hicsr"
+successfully loaded: "./data/p2p-Gnutella30/p2p-Gnutella30.mtxd_.hicsr"
+Matrix: 36682x36682: 88328 nonzeros
+ var-SpGEMM -> NNZ: 329813
+ var-SpGEMM SpGEMM: 0.317396 ms
+Collecting data...
+Generating '/tmp/nsys-report-0a93.qdstrm'
+[1/1] [0%                          ] p2p-Gnutella30.nsys-rep[1/1] [0%                          ] p2p-Gnutella30.nsys-rep[1/1] [==============61%           ] p2p-Gnutella30.nsys-rep[1/1] [========================100%] p2p-Gnutella30.nsys-rep[1/1] [========================100%] p2p-Gnutella30.nsys-rep
+Generated:
+	/workspace/./results/p2p-Gnutella30/p2p-Gnutella30.nsys-rep

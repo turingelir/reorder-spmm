@@ -1,0 +1,10 @@
+trying to load csr file "./data/chem_master1/reordered_rcm_chem_master1.mtxd_.hicsr"
+successfully loaded: "./data/chem_master1/reordered_rcm_chem_master1.mtxd_.hicsr"
+Matrix: 40401x40401: 201201 nonzeros
+ var-SpGEMM -> NNZ: 521197
+ var-SpGEMM SpGEMM: 0.315459 ms
+Collecting data...
+Generating '/tmp/nsys-report-b5b8.qdstrm'
+[1/1] [0%                          ] reordered_rcm_chem_master1.nsys-rep[1/1] [0%                          ] reordered_rcm_chem_master1.nsys-rep[1/1] [===========53%              ] reordered_rcm_chem_master1.nsys-rep[1/1] [============54%             ] reordered_rcm_chem_master1.nsys-rep[1/1] [========================100%] reordered_rcm_chem_master1.nsys-rep[1/1] [========================100%] reordered_rcm_chem_master1.nsys-rep
+Generated:
+	/workspace/./results/chem_master1/reordered_rcm_chem_master1.nsys-rep

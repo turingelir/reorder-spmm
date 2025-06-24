@@ -1,0 +1,10 @@
+trying to load csr file "./data/bcsstk39/reordered_rcm_bcsstk39.mtxd_.hicsr"
+successfully loaded: "./data/bcsstk39/reordered_rcm_bcsstk39.mtxd_.hicsr"
+Matrix: 46772x46772: 1068033 nonzeros
+ var-SpGEMM -> NNZ: 2701775
+ var-SpGEMM SpGEMM: 2.14628 ms
+Collecting data...
+Generating '/tmp/nsys-report-85aa.qdstrm'
+[1/1] [0%                          ] reordered_rcm_bcsstk39.nsys-rep[1/1] [0%                          ] reordered_rcm_bcsstk39.nsys-rep[1/1] [============55%             ] reordered_rcm_bcsstk39.nsys-rep[1/1] [========================100%] reordered_rcm_bcsstk39.nsys-rep[1/1] [========================100%] reordered_rcm_bcsstk39.nsys-rep
+Generated:
+	/workspace/./results/bcsstk39/reordered_rcm_bcsstk39.nsys-rep

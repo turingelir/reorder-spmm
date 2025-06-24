@@ -1,0 +1,10 @@
+trying to load csr file "./data/mosfet2/mosfet2.mtxd_.hicsr"
+successfully loaded: "./data/mosfet2/mosfet2.mtxd_.hicsr"
+Matrix: 46994x46994: 1499460 nonzeros
+ var-SpGEMM -> NNZ: 8871702
+ var-SpGEMM SpGEMM: 4.79584 ms
+Collecting data...
+Generating '/tmp/nsys-report-5b2e.qdstrm'
+[1/1] [0%                          ] mosfet2.nsys-rep[1/1] [0%                          ] mosfet2.nsys-rep[1/1] [===============66%          ] mosfet2.nsys-rep[1/1] [========================100%] mosfet2.nsys-rep[1/1] [========================100%] mosfet2.nsys-rep
+Generated:
+	/workspace/./results/mosfet2/mosfet2.nsys-rep

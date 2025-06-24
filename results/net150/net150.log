@@ -1,0 +1,10 @@
+trying to load csr file "./data/net150/net150.mtxd_.hicsr"
+successfully loaded: "./data/net150/net150.mtxd_.hicsr"
+Matrix: 43520x43520: 3121200 nonzeros
+ var-SpGEMM -> NNZ: 238012852
+ var-SpGEMM SpGEMM: 78.7579 ms
+Collecting data...
+Generating '/tmp/nsys-report-d3f1.qdstrm'
+[1/1] [0%                          ] net150.nsys-rep[1/1] [0%                          ] net150.nsys-rep[1/1] [===============67%          ] net150.nsys-rep[1/1] [================68%         ] net150.nsys-rep[1/1] [================69%         ] net150.nsys-rep[1/1] [========================100%] net150.nsys-rep[1/1] [========================100%] net150.nsys-rep
+Generated:
+	/workspace/./results/net150/net150.nsys-rep

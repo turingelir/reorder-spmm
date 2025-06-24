@@ -1,0 +1,10 @@
+trying to load csr file "./data/vt2010/reordered_metis_vt2010.mtxd_.hicsr"
+successfully loaded: "./data/vt2010/reordered_metis_vt2010.mtxd_.hicsr"
+Matrix: 32580x32580: 77799 nonzeros
+ var-SpGEMM -> NNZ: 172436
+ var-SpGEMM SpGEMM: 0.214888 ms
+Collecting data...
+Generating '/tmp/nsys-report-b9c9.qdstrm'
+[1/1] [0%                          ] reordered_metis_vt2010.nsys-rep[1/1] [0%                          ] reordered_metis_vt2010.nsys-rep[1/1] [==============61%           ] reordered_metis_vt2010.nsys-rep[1/1] [========================100%] reordered_metis_vt2010.nsys-rep[1/1] [========================100%] reordered_metis_vt2010.nsys-rep
+Generated:
+	/workspace/./results/vt2010/reordered_metis_vt2010.nsys-rep

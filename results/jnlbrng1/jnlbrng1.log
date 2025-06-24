@@ -1,0 +1,10 @@
+trying to load csr file "./data/jnlbrng1/jnlbrng1.mtxd_.hicsr"
+successfully loaded: "./data/jnlbrng1/jnlbrng1.mtxd_.hicsr"
+Matrix: 40000x40000: 199200 nonzeros
+ var-SpGEMM -> NNZ: 516004
+ var-SpGEMM SpGEMM: 0.29256 ms
+Collecting data...
+Generating '/tmp/nsys-report-43e3.qdstrm'
+[1/1] [0%                          ] jnlbrng1.nsys-rep[1/1] [0%                          ] jnlbrng1.nsys-rep[1/1] [===========53%              ] jnlbrng1.nsys-rep[1/1] [============54%             ] jnlbrng1.nsys-rep[1/1] [========================100%] jnlbrng1.nsys-rep[1/1] [========================100%] jnlbrng1.nsys-rep
+Generated:
+	/workspace/./results/jnlbrng1/jnlbrng1.nsys-rep

@@ -1,0 +1,10 @@
+trying to load csr file "./data/cit-HepPh/cit-HepPh.mtxd_.hicsr"
+successfully loaded: "./data/cit-HepPh/cit-HepPh.mtxd_.hicsr"
+Matrix: 34546x34546: 421578 nonzeros
+ var-SpGEMM -> NNZ: 3713328
+ var-SpGEMM SpGEMM: 1.99755 ms
+Collecting data...
+Generating '/tmp/nsys-report-ab1c.qdstrm'
+[1/1] [0%                          ] cit-HepPh.nsys-rep[1/1] [0%                          ] cit-HepPh.nsys-rep[1/1] [============57%             ] cit-HepPh.nsys-rep[1/1] [========================100%] cit-HepPh.nsys-rep[1/1] [========================100%] cit-HepPh.nsys-rep
+Generated:
+	/workspace/./results/cit-HepPh/cit-HepPh.nsys-rep

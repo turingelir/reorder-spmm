@@ -1,0 +1,10 @@
+trying to load csr file "./data/case39/reordered_metis_case39.mtxd_.hicsr"
+successfully loaded: "./data/case39/reordered_metis_case39.mtxd_.hicsr"
+Matrix: 40216x40216: 526139 nonzeros
+ var-SpGEMM -> NNZ: 3125894
+ var-SpGEMM SpGEMM: 1.836 ms
+Collecting data...
+Generating '/tmp/nsys-report-edba.qdstrm'
+[1/1] [0%                          ] reordered_metis_case39.nsys-rep[1/1] [0%                          ] reordered_metis_case39.nsys-rep[1/1] [==============61%           ] reordered_metis_case39.nsys-rep[1/1] [========================100%] reordered_metis_case39.nsys-rep[1/1] [========================100%] reordered_metis_case39.nsys-rep
+Generated:
+	/workspace/./results/case39/reordered_metis_case39.nsys-rep

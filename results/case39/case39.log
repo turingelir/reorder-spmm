@@ -1,0 +1,10 @@
+trying to load csr file "./data/case39/case39.mtxd_.hicsr"
+successfully loaded: "./data/case39/case39.mtxd_.hicsr"
+Matrix: 40216x40216: 1042160 nonzeros
+ var-SpGEMM -> NNZ: 404705284
+ var-SpGEMM SpGEMM: 210.044 ms
+Collecting data...
+Generating '/tmp/nsys-report-d8f2.qdstrm'
+[1/1] [0%                          ] case39.nsys-rep[1/1] [0%                          ] case39.nsys-rep[1/1] [============57%             ] case39.nsys-rep[1/1] [========================100%] case39.nsys-rep[1/1] [========================100%] case39.nsys-rep
+Generated:
+	/workspace/./results/case39/case39.nsys-rep

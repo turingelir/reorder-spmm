@@ -1,0 +1,10 @@
+trying to load csr file "./data/case39/reordered_louvain_case39.mtxd_.hicsr"
+successfully loaded: "./data/case39/reordered_louvain_case39.mtxd_.hicsr"
+Matrix: 40216x40216: 526139 nonzeros
+ var-SpGEMM -> NNZ: 1690294
+ var-SpGEMM SpGEMM: 12.5982 ms
+Collecting data...
+Generating '/tmp/nsys-report-f9ed.qdstrm'
+[1/1] [0%                          ] reordered_louvain_case39.nsys-rep[1/1] [0%                          ] reordered_louvain_case39.nsys-rep[1/1] [================68%         ] reordered_louvain_case39.nsys-rep[1/1] [========================100%] reordered_louvain_case39.nsys-rep[1/1] [========================100%] reordered_louvain_case39.nsys-rep
+Generated:
+	/workspace/./results/case39/reordered_louvain_case39.nsys-rep

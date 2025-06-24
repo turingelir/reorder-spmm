@@ -1,0 +1,10 @@
+trying to load csr file "./data/3dtube/reordered_louvain_3dtube.mtxd_.hicsr"
+successfully loaded: "./data/3dtube/reordered_louvain_3dtube.mtxd_.hicsr"
+Matrix: 45330x45330: 1629474 nonzeros
+ var-SpGEMM -> NNZ: 8092548
+ var-SpGEMM SpGEMM: 4.66461 ms
+Collecting data...
+Generating '/tmp/nsys-report-63cf.qdstrm'
+[1/1] [0%                          ] reordered_louvain_3dtube.nsys-rep[1/1] [0%                          ] reordered_louvain_3dtube.nsys-rep[1/1] [===============65%          ] reordered_louvain_3dtube.nsys-rep[1/1] [================69%         ] reordered_louvain_3dtube.nsys-rep[1/1] [========================100%] reordered_louvain_3dtube.nsys-rep[1/1] [========================100%] reordered_louvain_3dtube.nsys-rep
+Generated:
+	/workspace/./results/3dtube/reordered_louvain_3dtube.nsys-rep

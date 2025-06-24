@@ -1,0 +1,10 @@
+trying to load csr file "./data/rgg_n_2_15_s0/rgg_n_2_15_s0.mtxd_.hicsr"
+successfully loaded: "./data/rgg_n_2_15_s0/rgg_n_2_15_s0.mtxd_.hicsr"
+Matrix: 32768x32768: 320480 nonzeros
+ var-SpGEMM -> NNZ: 912940
+ var-SpGEMM SpGEMM: 0.549966 ms
+Collecting data...
+Generating '/tmp/nsys-report-3b82.qdstrm'
+[1/1] [0%                          ] rgg_n_2_15_s0.nsys-rep[1/1] [0%                          ] rgg_n_2_15_s0.nsys-rep[1/1] [==============61%           ] rgg_n_2_15_s0.nsys-rep[1/1] [========================100%] rgg_n_2_15_s0.nsys-rep[1/1] [========================100%] rgg_n_2_15_s0.nsys-rep
+Generated:
+	/workspace/./results/rgg_n_2_15_s0/rgg_n_2_15_s0.nsys-rep

@@ -1,0 +1,10 @@
+trying to load csr file "./data/g7jac140sc/reordered_rcm_g7jac140sc.mtxd_.hicsr"
+successfully loaded: "./data/g7jac140sc/reordered_rcm_g7jac140sc.mtxd_.hicsr"
+Matrix: 41490x41490: 565956 nonzeros
+ var-SpGEMM -> NNZ: 3638514
+ var-SpGEMM SpGEMM: 2.51355 ms
+Collecting data...
+Generating '/tmp/nsys-report-4381.qdstrm'
+[1/1] [0%                          ] reordered_rcm_g7jac140sc.nsys-rep[1/1] [0%                          ] reordered_rcm_g7jac140sc.nsys-rep[1/1] [============56%             ] reordered_rcm_g7jac140sc.nsys-rep[1/1] [============57%             ] reordered_rcm_g7jac140sc.nsys-rep[1/1] [========================100%] reordered_rcm_g7jac140sc.nsys-rep[1/1] [========================100%] reordered_rcm_g7jac140sc.nsys-rep
+Generated:
+	/workspace/./results/g7jac140sc/reordered_rcm_g7jac140sc.nsys-rep

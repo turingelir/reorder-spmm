@@ -1,0 +1,10 @@
+trying to load csr file "./data/dbic1/dbic1.mtxd_.hicsr"
+successfully loaded: "./data/dbic1/dbic1.mtxd_.hicsr"
+Matrix: 43200x226317: 1081843 nonzeros
+ var-SpGEMM -> NNZ: 2764502
+ var-SpGEMM SpGEMM: 2.37569 ms
+Collecting data...
+Generating '/tmp/nsys-report-4e00.qdstrm'
+[1/1] [0%                          ] dbic1.nsys-rep[1/1] [0%                          ] dbic1.nsys-rep[1/1] [=============58%            ] dbic1.nsys-rep[1/1] [========================100%] dbic1.nsys-rep[1/1] [========================100%] dbic1.nsys-rep
+Generated:
+	/workspace/./results/dbic1/dbic1.nsys-rep

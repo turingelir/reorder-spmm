@@ -1,0 +1,10 @@
+trying to load csr file "./data/finance256/finance256.mtxd_.hicsr"
+successfully loaded: "./data/finance256/finance256.mtxd_.hicsr"
+Matrix: 37376x37376: 298496 nonzeros
+ var-SpGEMM -> NNZ: 2297728
+ var-SpGEMM SpGEMM: 0.925398 ms
+Collecting data...
+Generating '/tmp/nsys-report-d1e0.qdstrm'
+[1/1] [0%                          ] finance256.nsys-rep[1/1] [0%                          ] finance256.nsys-rep[1/1] [===========53%              ] finance256.nsys-rep[1/1] [============54%             ] finance256.nsys-rep[1/1] [========================100%] finance256.nsys-rep[1/1] [========================100%] finance256.nsys-rep
+Generated:
+	/workspace/./results/finance256/finance256.nsys-rep

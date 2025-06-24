@@ -1,0 +1,10 @@
+trying to load csr file "./data/3dtube/reordered_rcm_3dtube.mtxd_.hicsr"
+successfully loaded: "./data/3dtube/reordered_rcm_3dtube.mtxd_.hicsr"
+Matrix: 45330x45330: 1629474 nonzeros
+ var-SpGEMM -> NNZ: 6880057
+ var-SpGEMM SpGEMM: 5.84286 ms
+Collecting data...
+Generating '/tmp/nsys-report-84f3.qdstrm'
+[1/1] [0%                          ] reordered_rcm_3dtube.nsys-rep[1/1] [0%                          ] reordered_rcm_3dtube.nsys-rep[1/1] [=============58%            ] reordered_rcm_3dtube.nsys-rep[1/1] [========================100%] reordered_rcm_3dtube.nsys-rep[1/1] [========================100%] reordered_rcm_3dtube.nsys-rep
+Generated:
+	/workspace/./results/3dtube/reordered_rcm_3dtube.nsys-rep

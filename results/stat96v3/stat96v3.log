@@ -1,0 +1,10 @@
+trying to load csr file "./data/stat96v3/stat96v3.mtxd_.hicsr"
+successfully loaded: "./data/stat96v3/stat96v3.mtxd_.hicsr"
+Matrix: 33841x1113780: 3317736 nonzeros
+ var-SpGEMM -> NNZ: 409813
+ var-SpGEMM SpGEMM: 3.04586 ms
+Collecting data...
+Generating '/tmp/nsys-report-528f.qdstrm'
+[1/1] [0%                          ] stat96v3.nsys-rep[1/1] [0%                          ] stat96v3.nsys-rep[1/1] [================68%         ] stat96v3.nsys-rep[1/1] [========================100%] stat96v3.nsys-rep[1/1] [========================100%] stat96v3.nsys-rep
+Generated:
+	/workspace/./results/stat96v3/stat96v3.nsys-rep

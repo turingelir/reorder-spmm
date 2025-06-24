@@ -1,0 +1,7 @@
+trying to load csr file "./data//.mtxd_.hicsr"
+could not load csr file:
+	could not open "./data//.mtxd_.hicsr"
+trying to load mtx file "./data//.mtx"
+could not open "./data//.mtx"
+Collecting data...
+Generating '/tmp/nsys-report-4670.qdstrm'

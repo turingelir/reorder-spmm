@@ -1,0 +1,10 @@
+trying to load csr file "./data/world/world.mtxd_.hicsr"
+successfully loaded: "./data/world/world.mtxd_.hicsr"
+Matrix: 34506x67147: 198883 nonzeros
+ var-SpGEMM -> NNZ: 582064
+ var-SpGEMM SpGEMM: 0.939605 ms
+Collecting data...
+Generating '/tmp/nsys-report-8786.qdstrm'
+[1/1] [0%                          ] world.nsys-rep[1/1] [0%                          ] world.nsys-rep[1/1] [==============64%           ] world.nsys-rep[1/1] [========================100%] world.nsys-rep[1/1] [========================100%] world.nsys-rep
+Generated:
+	/workspace/./results/world/world.nsys-rep

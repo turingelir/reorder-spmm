@@ -1,0 +1,10 @@
+trying to load csr file "./data/ship_001/ship_001.mtxd_.hicsr"
+successfully loaded: "./data/ship_001/ship_001.mtxd_.hicsr"
+Matrix: 34920x34920: 4644230 nonzeros
+ var-SpGEMM -> NNZ: 25600538
+ var-SpGEMM SpGEMM: 45.975 ms
+Collecting data...
+Generating '/tmp/nsys-report-5bed.qdstrm'
+[1/1] [0%                          ] ship_001.nsys-rep[1/1] [0%                          ] ship_001.nsys-rep[1/1] [===============67%          ] ship_001.nsys-rep[1/1] [========================100%] ship_001.nsys-rep[1/1] [========================100%] ship_001.nsys-rep
+Generated:
+	/workspace/./results/ship_001/ship_001.nsys-rep

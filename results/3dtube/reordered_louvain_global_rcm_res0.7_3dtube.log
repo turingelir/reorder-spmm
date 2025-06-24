@@ -1,0 +1,10 @@
+trying to load csr file "./data/3dtube/reordered_louvain_global_rcm_res0.7_3dtube.mtxd_.hicsr"
+could not load csr file:
+	could not open "./data/3dtube/reordered_louvain_global_rcm_res0.7_3dtube.mtxd_.hicsr"
+trying to load mtx file "./data/3dtube/reordered_louvain_global_rcm_res0.7_3dtube.mtx"
+Can only read MatrixMarket format that is in coordinate form
+Collecting data...
+Generating '/tmp/nsys-report-8748.qdstrm'
+[1/1] [0%                          ] reordered_louvain_global_rcm_res0.7_3dtube.nsys-rep[1/1] [0%                          ] reordered_louvain_global_rcm_res0.7_3dtube.nsys-rep[1/1] [==========48%               ] reordered_louvain_global_rcm_res0.7_3dtube.nsys-rep[1/1] [=======================93%  ] reordered_louvain_global_rcm_res0.7_3dtube.nsys-rep[1/1] [========================100%] reordered_louvain_global_rcm_res0.7_3dtube.nsys-rep[1/1] [========================100%] reordered_louvain_global_rcm_res0.7_3dtube.nsys-rep
+Generated:
+	/workspace/./results/3dtube/reordered_louvain_global_rcm_res0.7_3dtube.nsys-rep

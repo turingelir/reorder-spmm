@@ -1,0 +1,10 @@
+trying to load csr file "./data/nd12k/nd12k.mtxd_.hicsr"
+successfully loaded: "./data/nd12k/nd12k.mtxd_.hicsr"
+Matrix: 36000x36000: 14220946 nonzeros
+ var-SpGEMM -> NNZ: 90906894
+ var-SpGEMM SpGEMM: 423.194 ms
+Collecting data...
+Generating '/tmp/nsys-report-402e.qdstrm'
+[1/1] [0%                          ] nd12k.nsys-rep[1/1] [0%                          ] nd12k.nsys-rep[1/1] [===============66%          ] nd12k.nsys-rep[1/1] [========================100%] nd12k.nsys-rep[1/1] [========================100%] nd12k.nsys-rep
+Generated:
+	/workspace/./results/nd12k/nd12k.nsys-rep

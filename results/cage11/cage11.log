@@ -1,0 +1,10 @@
+trying to load csr file "./data/cage11/cage11.mtxd_.hicsr"
+successfully loaded: "./data/cage11/cage11.mtxd_.hicsr"
+Matrix: 39082x39082: 559722 nonzeros
+ var-SpGEMM -> NNZ: 3813850
+ var-SpGEMM SpGEMM: 2.06429 ms
+Collecting data...
+Generating '/tmp/nsys-report-fe0f.qdstrm'
+[1/1] [0%                          ] cage11.nsys-rep[1/1] [0%                          ] cage11.nsys-rep[1/1] [===========53%              ] cage11.nsys-rep[1/1] [============54%             ] cage11.nsys-rep[1/1] [========================100%] cage11.nsys-rep[1/1] [========================100%] cage11.nsys-rep
+Generated:
+	/workspace/./results/cage11/cage11.nsys-rep

@@ -1,0 +1,10 @@
+trying to load csr file "./data/vsp_model1_crew1_cr42_south31/vsp_model1_crew1_cr42_south31.mtxd_.hicsr"
+successfully loaded: "./data/vsp_model1_crew1_cr42_south31/vsp_model1_crew1_cr42_south31.mtxd_.hicsr"
+Matrix: 45101x45101: 379952 nonzeros
+ var-SpGEMM -> NNZ: 394768783
+ var-SpGEMM SpGEMM: 73.6678 ms
+Collecting data...
+Generating '/tmp/nsys-report-ea46.qdstrm'
+[1/1] [0%                          ] vsp_model1_crew1_cr42_south31.nsys-rep[1/1] [0%                          ] vsp_model1_crew1_cr42_south31.nsys-rep[1/1] [=============59%            ] vsp_model1_crew1_cr42_south31.nsys-rep[1/1] [================68%         ] vsp_model1_crew1_cr42_south31.nsys-rep[1/1] [========================100%] vsp_model1_crew1_cr42_south31.nsys-rep[1/1] [========================100%] vsp_model1_crew1_cr42_south31.nsys-rep
+Generated:
+	/workspace/./results/vsp_model1_crew1_cr42_south31/vsp_model1_crew1_cr42_south31.nsys-rep

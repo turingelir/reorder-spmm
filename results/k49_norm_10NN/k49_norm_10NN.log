@@ -1,0 +1,10 @@
+trying to load csr file "./data/k49_norm_10NN/k49_norm_10NN.mtxd_.hicsr"
+successfully loaded: "./data/k49_norm_10NN/k49_norm_10NN.mtxd_.hicsr"
+Matrix: 38547x38547: 618158 nonzeros
+ var-SpGEMM -> NNZ: 7256189
+ var-SpGEMM SpGEMM: 3.13349 ms
+Collecting data...
+Generating '/tmp/nsys-report-54ac.qdstrm'
+[1/1] [0%                          ] k49_norm_10NN.nsys-rep[1/1] [0%                          ] k49_norm_10NN.nsys-rep[1/1] [=============59%            ] k49_norm_10NN.nsys-rep[1/1] [========================100%] k49_norm_10NN.nsys-rep[1/1] [========================100%] k49_norm_10NN.nsys-rep
+Generated:
+	/workspace/./results/k49_norm_10NN/k49_norm_10NN.nsys-rep

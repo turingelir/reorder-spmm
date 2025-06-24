@@ -1,0 +1,10 @@
+trying to load csr file "./data/astro-ph/reordered_metis_astro-ph.mtxd_.hicsr"
+successfully loaded: "./data/astro-ph/reordered_metis_astro-ph.mtxd_.hicsr"
+Matrix: 16706x16706: 121251 nonzeros
+ var-SpGEMM -> NNZ: 979613
+ var-SpGEMM SpGEMM: 0.676906 ms
+Collecting data...
+Generating '/tmp/nsys-report-93ed.qdstrm'
+[1/1] [0%                          ] reordered_metis_astro-ph.nsys-rep[1/1] [0%                          ] reordered_metis_astro-ph.nsys-rep[1/1] [===============67%          ] reordered_metis_astro-ph.nsys-rep[1/1] [========================100%] reordered_metis_astro-ph.nsys-rep[1/1] [========================100%] reordered_metis_astro-ph.nsys-rep
+Generated:
+	/workspace/./results/astro-ph/reordered_metis_astro-ph.nsys-rep

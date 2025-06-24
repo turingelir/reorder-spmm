@@ -1,0 +1,10 @@
+trying to load csr file "./data/juba40k/juba40k.mtxd_.hicsr"
+successfully loaded: "./data/juba40k/juba40k.mtxd_.hicsr"
+Matrix: 40337x40337: 144945 nonzeros
+ var-SpGEMM -> NNZ: 370512
+ var-SpGEMM SpGEMM: 0.444339 ms
+Collecting data...
+Generating '/tmp/nsys-report-67fe.qdstrm'
+[1/1] [0%                          ] juba40k.nsys-rep[1/1] [0%                          ] juba40k.nsys-rep[1/1] [===========53%              ] juba40k.nsys-rep[1/1] [============54%             ] juba40k.nsys-rep[1/1] [========================100%] juba40k.nsys-rep[1/1] [========================100%] juba40k.nsys-rep
+Generated:
+	/workspace/./results/juba40k/juba40k.nsys-rep

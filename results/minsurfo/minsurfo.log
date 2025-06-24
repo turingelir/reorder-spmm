@@ -1,0 +1,10 @@
+trying to load csr file "./data/minsurfo/minsurfo.mtxd_.hicsr"
+successfully loaded: "./data/minsurfo/minsurfo.mtxd_.hicsr"
+Matrix: 40806x40806: 203622 nonzeros
+ var-SpGEMM -> NNZ: 527650
+ var-SpGEMM SpGEMM: 0.37608 ms
+Collecting data...
+Generating '/tmp/nsys-report-d3a3.qdstrm'
+[1/1] [0%                          ] minsurfo.nsys-rep[1/1] [0%                          ] minsurfo.nsys-rep[1/1] [=============60%            ] minsurfo.nsys-rep[1/1] [========================100%] minsurfo.nsys-rep[1/1] [========================100%] minsurfo.nsys-rep
+Generated:
+	/workspace/./results/minsurfo/minsurfo.nsys-rep

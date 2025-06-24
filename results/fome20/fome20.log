@@ -1,0 +1,10 @@
+trying to load csr file "./data/fome20/fome20.mtxd_.hicsr"
+successfully loaded: "./data/fome20/fome20.mtxd_.hicsr"
+Matrix: 33874x108175: 232647 nonzeros
+ var-SpGEMM -> NNZ: 320120
+ var-SpGEMM SpGEMM: 0.431277 ms
+Collecting data...
+Generating '/tmp/nsys-report-9c0a.qdstrm'
+[1/1] [0%                          ] fome20.nsys-rep[1/1] [0%                          ] fome20.nsys-rep[1/1] [============54%             ] fome20.nsys-rep[1/1] [========================100%] fome20.nsys-rep[1/1] [========================100%] fome20.nsys-rep
+Generated:
+	/workspace/./results/fome20/fome20.nsys-rep

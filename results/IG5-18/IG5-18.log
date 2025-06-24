@@ -1,0 +1,10 @@
+trying to load csr file "./data/IG5-18/IG5-18.mtxd_.hicsr"
+successfully loaded: "./data/IG5-18/IG5-18.mtxd_.hicsr"
+Matrix: 47894x41550: 1790490 nonzeros
+ var-SpGEMM -> NNZ: 261820832
+ var-SpGEMM SpGEMM: 66.4439 ms
+Collecting data...
+Generating '/tmp/nsys-report-efdf.qdstrm'
+[1/1] [0%                          ] IG5-18.nsys-rep[1/1] [0%                          ] IG5-18.nsys-rep[1/1] [=============58%            ] IG5-18.nsys-rep[1/1] [=============59%            ] IG5-18.nsys-rep[1/1] [========================100%] IG5-18.nsys-rep[1/1] [========================100%] IG5-18.nsys-rep
+Generated:
+	/workspace/./results/IG5-18/IG5-18.nsys-rep

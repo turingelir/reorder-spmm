@@ -1,0 +1,10 @@
+trying to load csr file "./data/finance256/reordered_rcm_finance256.mtxd_.hicsr"
+successfully loaded: "./data/finance256/reordered_rcm_finance256.mtxd_.hicsr"
+Matrix: 37376x37376: 167936 nonzeros
+ var-SpGEMM -> NNZ: 691121
+ var-SpGEMM SpGEMM: 0.45503 ms
+Collecting data...
+Generating '/tmp/nsys-report-0a3d.qdstrm'
+[1/1] [0%                          ] reordered_rcm_finance256.nsys-rep[1/1] [0%                          ] reordered_rcm_finance256.nsys-rep[1/1] [===========53%              ] reordered_rcm_finance256.nsys-rep[1/1] [============54%             ] reordered_rcm_finance256.nsys-rep[1/1] [========================100%] reordered_rcm_finance256.nsys-rep[1/1] [========================100%] reordered_rcm_finance256.nsys-rep
+Generated:
+	/workspace/./results/finance256/reordered_rcm_finance256.nsys-rep

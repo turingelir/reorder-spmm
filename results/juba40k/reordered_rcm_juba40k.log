@@ -1,0 +1,10 @@
+trying to load csr file "./data/juba40k/reordered_rcm_juba40k.mtxd_.hicsr"
+successfully loaded: "./data/juba40k/reordered_rcm_juba40k.mtxd_.hicsr"
+Matrix: 40337x40337: 144945 nonzeros
+ var-SpGEMM -> NNZ: 370512
+ var-SpGEMM SpGEMM: 0.433072 ms
+Collecting data...
+Generating '/tmp/nsys-report-9c27.qdstrm'
+[1/1] [0%                          ] reordered_rcm_juba40k.nsys-rep[1/1] [0%                          ] reordered_rcm_juba40k.nsys-rep[1/1] [===========53%              ] reordered_rcm_juba40k.nsys-rep[1/1] [============54%             ] reordered_rcm_juba40k.nsys-rep[1/1] [========================100%] reordered_rcm_juba40k.nsys-rep[1/1] [========================100%] reordered_rcm_juba40k.nsys-rep
+Generated:
+	/workspace/./results/juba40k/reordered_rcm_juba40k.nsys-rep
